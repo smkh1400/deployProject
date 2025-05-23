@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "deployproject-daac.onrender.com",
+    "deployproject-1-3o1q.onrender.com",
 ]
 
 
@@ -63,6 +64,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://deployproject-1-3o1q.onrender.com",
 ]
+
+CORS_ALLOW_CREDENTIALS = True
 
 # CORS_ALLOW_ALL_ORIGINS = True
 
