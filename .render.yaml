@@ -2,11 +2,12 @@ services:
   - type: web
     name: django-react-fullstack
     env: python
+    rootDir: backend/crowdfind
     buildCommand: |
-      pip install -r backend/requirements.txt
-      cd frontend/crowdfind && npm install && npm run build
-      xcopy /E /I /Y frontend\crowdfind\build backend\build
-    startCommand: cd backend && gunicorn mysite.wsgi:application
+      pip install -r ../../requirements.txt
+      cd ../../../frontend/crowdfind && npm install && npm run build
+      xcopy /E /I /Y ../../../frontend/crowdfind/build ../../../backend/crowdfind/build
+    startCommand: gunicorn crowdfind.wsgi:application
     envVars:
       - key: DJANGO_SETTINGS_MODULE
-        value: mysite.settings
+        value: crowdfind.settings
