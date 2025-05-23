@@ -1,0 +1,136 @@
+
+**Project 1:**
+Project Name: تامین سرمایه در گردش احداث مجموعه آبی منطقه 3 شهرداری مشهد
+Company Title: ساختماني آرت رتيكول
+Estimated Profit: 44
+Media Source: https://cfrazavi.ir/media/project/pattern/a394654a-057f-4bb8-8569-8f8f3f713aeb.jpg
+Has Opportunity: True
+Has Warranty: True
+
+**Project 2:**
+Project Name: تولید نخ BCF
+Company Title: پلیمر فام آراد
+Estimated Profit: 45
+Media Source: https://cfrazavi.ir/media/project/pattern/6b4a3c35-8ed2-40cd-93ec-fd6cc587cbb0.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 3:**
+Project Name: تامین سرمایه در گردش بازرگانی میلگرد فولادی
+Company Title: انبوه سازان معاصر شرق
+Estimated Profit: 45
+Media Source: https://cfrazavi.ir/media/project/pattern/c6e2f75c-e29c-4b8a-b3be-275eb4d9f5b1.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 4:**
+Project Name: سرمایه در گردش ساخت آب شیرین کن
+Company Title: موسسه بنیان دانش پژوهان
+Estimated Profit: 45
+Media Source: https://cfrazavi.ir/media/project/pattern/a2c72a58-1e0a-4281-a75f-86e15e6a2e92.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: تامین سرمایه در گردش خرید تجهیزات شبکه
+Company Title: مهندسی كاوش پردازان برسا
+Estimated Profit: 20
+Media Source: https://cfrazavi.ir/media/project/pattern/1709bc1b-c352-4c0f-84c0-e536dc230d75.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 6:**
+Project Name: تامین سرمایه در گردش واردات کود شیمیایی
+Company Title: شرکت طلیعه تجارت ثمین خاوران
+Estimated Profit: 44
+Media Source: https://cfrazavi.ir/media/project/pattern/f10b7d32-0188-42e8-a0e3-8df5b0ff7dea.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 7:**
+Project Name: تامین سرمایه در گردش خرید و فروش تجهیزات و دستگاه‌های دندانپزشکی
+Company Title: رایان نوژان طب پارس
+Estimated Profit: 44
+Media Source: https://cfrazavi.ir/media/project/pattern/0f9dad5d-03b9-43f5-8dff-323acc9625ae.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 8:**
+Project Name: تامین سرمایه در گردش تولید شیر
+Company Title: کشت و صنعت میانکاله بشارت
+Estimated Profit: 45
+Media Source: https://cfrazavi.ir/media/project/pattern/62fa3773-d9c4-4fc0-8186-7c2a176120d1.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 9:**
+Project Name: خرید تجهیزات تولید رنگ
+Company Title: فولاد نیاگستر شرق بارثاوا
+Estimated Profit: 45
+Media Source: https://cfrazavi.ir/media/project/pattern/6df7f0ef-8a58-4f87-9cb5-52a72086a9df.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: تامین سرمایه درگردش تولید گیربکس
+Company Title: سهند دور
+Estimated Profit: 44
+Media Source: https://cfrazavi.ir/media/project/pattern/f787d4cf-ce35-4413-b721-c7325cd8f345.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 11:**
+Project Name: تامین مالی فروش اقساطی دستگاه های دندانپزشکی و دندانسازی
+Company Title: شرکت بین المللی نواندیشان مسیر آینده پارس
+Estimated Profit: 44
+Media Source: https://cfrazavi.ir/media/project/pattern/310dbbfa-f2cb-4bfc-8e94-eebfec0d04d3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 12:**
+Project Name: خرید تجهیزات و مواد اولیه تولید رنگ
+Company Title: فولاد نیاگستر شرق بارثاوا
+Estimated Profit: 46
+Media Source: https://cfrazavi.ir/media/project/pattern/2543fde3-41f0-41e9-ae42-91038b4baa07.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 13:**
+Project Name: تامین سرمایه در گردش راه اندازی خط تولید رنگ پرایمر
+Company Title: فولاد نیاگستر شرق بارثاوا
+Estimated Profit: 46
+Media Source: https://cfrazavi.ir/media/project/pattern/11018844-f13e-42ea-999e-c6d6d5b67fe1.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 14:**
+Project Name: تامین سرمایه در گردش خرید کاغذ جهت تولید جعبه خام و جعبه چاپ دار
+Company Title: مهندسین خبره میهن
+Estimated Profit: 41
+Media Source: https://cfrazavi.ir/media/project/pattern/b20e878d-ac05-4d07-8944-0196cef1ebb4.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: تامین سرمایه درگردش تولید دارو
+Company Title: شرکت دایاژن فارمد
+Estimated Profit: 34
+Media Source: https://cfrazavi.ir/media/project/pattern/a2183cbd-b0af-46e7-8457-70e423b90168.JPG
+Has Opportunity: False
+Has Warranty: True
+
+**Project 16:**
+Project Name: توسعه و تولید عطر رضوی
+Company Title: کسب و کار رضوی
+Estimated Profit: 25
+Media Source: https://cfrazavi.ir/media/project/pattern/ff08ebbb-1432-472e-ab2c-b7a222d3313a.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 17:**
+Project Name: خرید و فروش سوزن ریل راه آهن
+Company Title: منطقه ویژه اقتصادی سرخس
+Estimated Profit: 18
+Media Source: https://cfrazavi.ir/media/project/pattern/ff99de56-93f9-4128-85b1-c5f9fef0c9d8.jpg
+Has Opportunity: False
+Has Warranty: True

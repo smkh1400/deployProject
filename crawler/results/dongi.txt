@@ -1,0 +1,1080 @@
+
+**Project 1:**
+Project Name: تامین سرمایه در گردش جهت تولید و فروش قند طعم‌دار
+Company Title: صنعت قند کردستان (سهامی خاص)
+Estimated Profit: 46
+Media Source: https://cdn.dongi.ir/storage/projectDocs/486/1746623849681b5d69a39eb0.28750766.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 2:**
+Project Name: تامین سرمایه در گردش تولید کاغذ کرافت
+Company Title: پویا آیش مازند
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/464/1745392664680894185dd9f8.15852415.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 3:**
+Project Name: تامین سرمایه در گردش تولید اسنک مخلوط
+Company Title: رستوران های زنجیره ای زندگی خوشمزه ایرانیان
+Estimated Profit: 46
+Media Source: https://cdn.dongi.ir/storage/projectDocs/473/1745867018680fd10a5519c5.93122355.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 4:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش انواع بذر
+Company Title: گروه صنعتی گناباد
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/463/174539157768088fd99102d7.39882832.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: تامین سرمایه در گردش تولید کاغذ پشت چسب دار نوین برچسب
+Company Title: نوین برچسب هرمس
+Estimated Profit: 49
+Media Source: https://cdn.dongi.ir/storage/projectDocs/392/1745312113680759716066c8.71322551.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 6:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش محصولات سلولزی آرنگ
+Company Title: آرنگ پخش نوین کاسپین
+Estimated Profit: 48.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/459/174506706268039c36ccf201.37741424.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 7:**
+Project Name: تامین سرمایه جهت احداث سالن اسکواش باشگاه انقلاب
+Company Title: ورزش دوستان دیلمان
+Estimated Profit: 49
+Media Source: https://cdn.dongi.ir/storage/projectDocs/436/174212641567d6bd4fce3d03.74636209.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 8:**
+Project Name: تامین بخشی از سرمایه مورد نیاز جهت خرید میلگرد برای انجام پروژه مسکن پردیسان قم
+Company Title: طرح و ساخت عامر مستقل
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/455/174446682567fa73897a7d56.39992077.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 9:**
+Project Name: تامین بخشی از سرمایه مورد نیاز جهت خرید میلگرد برای انجام پروژه مسکن صدرا
+Company Title: طرح و ساخت عامر مستقل
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/448/174221003067d803ee269965.81651066.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش باتری خودروهای سبک
+Company Title: ماد باطری کیش
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/430/174221303567d80fabef1881.39440063.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 11:**
+Project Name: تامین سرمایه پروژه آماده‌سازی اراضی عظیمیه قزوین
+Company Title: پویا سازان کلبه راه
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/447/174207206867d5e904486546.93081626.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 12:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش برنج
+Company Title: صنعت قند کردستان (سهامی خاص)
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/431/174081680267c2c1a21b5312.42834650.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 13:**
+Project Name: تامین سرمایه در گردش تولید تلویزیون
+Company Title: بهسار تدبیر رادمان
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/445/174204741867d588baebbf23.60116725.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 14:**
+Project Name: تامین سرمایه در گردش صادرات تیر آهن
+Company Title: فولاد نورد طوس
+Estimated Profit: 49
+Media Source: https://cdn.dongi.ir/storage/projectDocs/444/174202721367d539cd2a2828.56943922.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 15:**
+Project Name: تامین سرمایه در گردش تولید البسه پزشکی
+Company Title: فرداد آتیه تجارت روناک
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/435/174152506567cd904972f290.84303114.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 16:**
+Project Name: تامین سرمایه در گردش خرید کالای دیجیتال آواپرداز
+Company Title: آواپرداز کیهان کریمان
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/423/174118499267c85fe0306739.05521079.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 17:**
+Project Name: تامین سرمایه جهت خرید تجهیزات مورد نیاز اجرای پروژه‌های انفورماتیکی
+Company Title: سامانه خط و طرح
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/428/174091424867c43e480dbcf3.37561478.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 18:**
+Project Name: تامین سرمایه در گردش جهت تولید کارت‌های هوشمند
+Company Title: گلچین رسانه هوشمند
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/434/174116241767c807b1c0a232.76311333.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 19:**
+Project Name: تامین سرمایه در گردش بازرگانی کپسول گاز مبرد دانوس
+Company Title: شرکت تبریز موتور آسیا
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/424/174090537667c41ba0e6f780.80878819.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 20:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش سیم و کابل
+Company Title: آتی نگر نفیس
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/422/174082237667c2d7689fc113.64828696.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 21:**
+Project Name: تأمین سرمایه در گردش به منظور خرید و فروش ضایعات الیاف پلیمری
+Company Title: دایا رنگدانه مرکزی
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/433/174091448567c43f35ad1c98.13813681.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 22:**
+Project Name: تامین سرمایه در گردش صادرات میلگرد
+Company Title: فولاد نورد طوس
+Estimated Profit: 43.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/419/174117896467c84854217030.02434192.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 23:**
+Project Name: تامین سرمایه در گردش خرید و فروش شمش آهن
+Company Title: نورد میلگرد کاسپین
+Estimated Profit: 43.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/425/173962741767b09b99d8b9f5.24583842.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 24:**
+Project Name: تامین سرمایه در گردش خرید و فروش کنسانتره آهن هرمس
+Company Title: هرمس انرژی ایرانیان
+Estimated Profit: 43.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/412/173857574267a08f7e8c0f70.68669414.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 25:**
+Project Name: تامین سرمایه در گردش جهت تولید و فروش قندشکسته
+Company Title: صنعت قند کردستان (سهامی خاص)
+Estimated Profit: 42
+Media Source: https://cdn.dongi.ir/storage/projectDocs/411/173865557367a1c755927fe5.86936283.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 26:**
+Project Name: تامین سرمایه در گردش تجارت ورق فولادی فرانام
+Company Title: توسعه تجارت فرانام
+Estimated Profit: 43.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/405/17367590806784d728b0ec72.05013859.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 27:**
+Project Name: تامین سرمایه در گردش جهت تولید انواع ورق تست لاینر شرکت پاک پویای مهر
+Company Title: شرکت پاک پویای مهر
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/396/173666409967836423a0fa90.53257999.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 28:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش کالای مصرفی و غذایی سادات
+Company Title: سپاهان پخش سادات
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/394/1736663264678360e0a194f0.34970589.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 29:**
+Project Name: تامین سرمایه در گردش تجارت میلگرد فولادی فرانام
+Company Title: توسعه تجارت فرانام
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/403/17366806576783a4d12827b4.44886451.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 30:**
+Project Name: تامین سرمایه در گردش بازرگانی میلگرد
+Company Title: اروین تجارت تاو
+Estimated Profit: 22.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/397/1736067211677a488b9e27a0.02448373.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 31:**
+Project Name: تامین سرمایه در گردش تجارت ورق فولادی انبوه‌سازان
+Company Title: انبوه سازان معاصر شرق
+Estimated Profit: 22.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/372/17360011036779464f97e414.62144350.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 32:**
+Project Name: تامین سرمایه در گردش تولید ورق ام‌دی‌اف با روکش هایگلاس گلسار
+Company Title: آسیا نگار گلسار
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/395/17355661816772a365dcf0f7.50772169.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 33:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش شوینده‌های آدرین
+Company Title: قائم پخش آدرین
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/389/173450820567627eadd5b203.29868531.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 34:**
+Project Name: تامین سرمایه در گردش جهت تولید و فرآوری آجیل سفارشی
+Company Title: آنی تک اصفهان
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/375/173279228267484fda95e824.39583728.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 35:**
+Project Name: تامین سرمایه در گردش تجارت گندله آهن
+Company Title: هرمس انرژی ایرانیان
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/371/1731940165673b4f456268a9.31292672.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 36:**
+Project Name: تامین سرمایه در گردش تولید اسنک
+Company Title: رستوران های زنجیره ای زندگی خوشمزه ایرانیان
+Estimated Profit: 37.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/358/17318408246739cb38d0b216.05773579.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 37:**
+Project Name: تامین سرمایه در گردش جهت تولید ادکلن 100 میل
+Company Title: حس برتر پدیده نو
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/367/1731910808673adc9814b2a1.49583824.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 38:**
+Project Name: تامین سرمایه در گردش تولید محصولات دارویی فله زردبند
+Company Title: شرکت دارویی زردبند
+Estimated Profit: 44.2
+Media Source: https://cdn.dongi.ir/storage/projectDocs/365/1730897841672b67b1322f62.79389250.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 39:**
+Project Name: تامین سرمایه در گردش تجارت نخ های نیمه مات
+Company Title: صنایع نساجی فیروزتاب
+Estimated Profit: 45
+Media Source: https://cdn.dongi.ir/storage/projectDocs/362/1731910841673adcb9871b45.89751238.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 40:**
+Project Name: تامین سرمایه در گردش شرکت نسل برتر خاورمیانه
+Company Title: نسل برتر خاورمیانه
+Estimated Profit: 43.56
+Media Source: https://cdn.dongi.ir/storage/projectDocs/357/1729929074671c9f721385b1.14424563.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 41:**
+Project Name: تامین سرمایه در گردش تولید میلگرد
+Company Title: نورد میلگرد کاسپین
+Estimated Profit: 42
+Media Source: https://cdn.dongi.ir/storage/projectDocs/356/172958603467176372952256.32339841.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 42:**
+Project Name: تامین سرمایه در گردش شرکت هرمس انرژی ایرانیان
+Company Title: هرمس انرژی ایرانیان
+Estimated Profit: 43.15
+Media Source: https://cdn.dongi.ir/storage/projectDocs/350/1729014933670eac9598c7f5.97081754.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 43:**
+Project Name: تامین سرمایه در گردش بازرگانی ابزارآلات
+Company Title: دنیای ابزار پارس
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/351/1728978635670e1ecb794799.55618329.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 44:**
+Project Name: تأمین بخشی از سرمایه در گردش خرید آخال و نشاسته جهت تولید ورق تست و لاینر
+Company Title: پویا آیش مازند
+Estimated Profit: 44.08
+Media Source: https://cdn.dongi.ir/storage/projectDocs/349/172840124667054f5e5ad0b6.86584967.png
+Has Opportunity: False
+Has Warranty: True
+
+**Project 45:**
+Project Name: تامین سرمایه در گردش جهت تولید گز 40 درصد پسته
+Company Title: آنی تک اصفهان
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/343/172759915966f9123770e153.62798470.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 46:**
+Project Name: تأمین سرمایه در گردش خرید مواد اولیه جهت تولید محصولات مصرفی سالن‌های زیبایی
+Company Title: شرکت بین المللی اکسیر کیمیای ارکیده
+Estimated Profit: 43.88
+Media Source: https://cdn.dongi.ir/storage/projectDocs/342/172710745566f1917f0250d9.92592151.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 47:**
+Project Name: تأمین سرمایه در گردش خرید و فروش سرورهای HPE تجارت الکترونیک مفتاح
+Company Title: تجارت الکترونیک مفتاح
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/340/172710438966f18585823691.55040031.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 48:**
+Project Name: تأمین سرمایه در گردش خرید شمش آهن جهت تولید میله‌گرد
+Company Title: اطلس فولاد آسیا
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/334/172648578966e8151d7dfb35.30962393.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 49:**
+Project Name: تامین سرمایه در گردش تجارت میلگرد
+Company Title: هرمس انرژی ایرانیان
+Estimated Profit: 48.18
+Media Source: https://cdn.dongi.ir/storage/projectDocs/331/172648842966e81f6d688054.95993123.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 50:**
+Project Name: تامین سرمایه در گردش جهت تولید انواع فرش‌های ماشینی پاتریس
+Company Title: شرکت فرش ستاره طلایی دلیجان
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/330/172629234966e5217d207b27.25282205.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 51:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش مواد شوینده آدرین
+Company Title: قائم پخش آدرین
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/322/172569530066dc0544863cd5.22494320.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 52:**
+Project Name: تجارت زغال سنگ
+Company Title: نسل برتر خاورمیانه
+Estimated Profit: 46.18
+Media Source: https://cdn.dongi.ir/storage/projectDocs/327/172571524466dc532c444088.60752057.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 53:**
+Project Name: تامین سرمایه در گردش خرید و فروش لوله فولادی آریابد
+Company Title: صنایع فولاد و گالوانیزه آریابد نوین نوین
+Estimated Profit: 44.2
+Media Source: https://cdn.dongi.ir/storage/projectDocs/325/172511358566d324f120ba61.11764454.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 54:**
+Project Name: تامین سرمایه در گردش تولید گوی فولادی
+Company Title: آینده روشن مقاطع آلیاژی
+Estimated Profit: 48.86
+Media Source: https://cdn.dongi.ir/storage/projectDocs/323/172476024866cdc0b810b384.87651113.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 55:**
+Project Name: تأمین سرمایه در گردش تولید چسب بین لایه‌ای پردیس
+Company Title: شرکت پردیس گسترش اسپادانا
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/320/172424259766c5daa5076194.68333902.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 56:**
+Project Name: تامین سرمایه در گردش جهت تولید دستگاه‌های پوز بانکی
+Company Title: ایده سازان عصر اطلاعات
+Estimated Profit: 46
+Media Source: https://cdn.dongi.ir/storage/projectDocs/318/172362339966bc67e7ec33f0.26685124.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 57:**
+Project Name: تامین سرمایه در گردش تولید تیتان و بوتیل اکریلات علمی سازان پاسارگاد
+Company Title: علمی سازان پاسارگاد
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/224/172354481466bb34ee0fcda8.64659044.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 58:**
+Project Name: تولید پردازنده های پیشرفته محققان یاسین
+Company Title: شرکت مهندسی محققان یاسین (با مسوولیت محدود)
+Estimated Profit: 44.74
+Media Source: https://cdn.dongi.ir/storage/projectDocs/310/1720873435669271db5a5119.43830752.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 59:**
+Project Name: تأمین سرمایه در گردش جهت خرید مواد اولیه تولید محصولات بهداشتی
+Company Title: شرکت بین المللی اکسیر کیمیای ارکیده
+Estimated Profit: 46.09
+Media Source: https://cdn.dongi.ir/storage/projectDocs/307/1720613664668e7b201f9d78.55315498.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 60:**
+Project Name: تامین سرمایه در گردش بسته بندی و فروش تخم مرغ
+Company Title: زاگرس پخش زرین نشان
+Estimated Profit: 43.25
+Media Source: https://cdn.dongi.ir/storage/projectDocs/308/1720609142668e6976e27852.09677579.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 61:**
+Project Name: تولید بوشرنگ آلکیدی رسام
+Company Title: بهکوشان توسعه رسام
+Estimated Profit: 46
+Media Source: https://cdn.dongi.ir/storage/projectDocs/304/1720529780668d3374449288.27298215.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 62:**
+Project Name: تأمین بخشی از سرمایه در گردش اجرای قرارداد مربوط به پروژه کارخانه اکسیژن 4 فولاد خوزستان
+Company Title: پانیانیر دکل سازه
+Estimated Profit: 38.05
+Media Source: https://cdn.dongi.ir/storage/projectDocs/303/1720342230668a56d65bee04.33845894.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 63:**
+Project Name: تامین سرمایه در گردش ورق برش شده صدف زرین
+Company Title: مجتمع صنایع صدف زرین سبا
+Estimated Profit: 48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/295/171870708866716390169478.45562285.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 64:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش مواد غذایی ستاره پخش
+Company Title: ستاره پخش سپاهان نوین
+Estimated Profit: 47
+Media Source: https://cdn.dongi.ir/storage/projectDocs/300/1719227126667952f6735ac8.65424851.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 65:**
+Project Name: تأمین بخشی از سرمایه در گردش خرید نخ جهت تولید پارچه
+Company Title: شرکت الیاف گلریز قم
+Estimated Profit: 44
+Media Source: https://cdn.dongi.ir/storage/projectDocs/297/17190694526676eb0c869a53.26456455.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 66:**
+Project Name: تامین سرمایه در گردش فروش شیر پاستوریزه
+Company Title: شرکت تعاونی 121 فرآورده های لبنی بهار دالاهو مانیزان
+Estimated Profit: 42.61
+Media Source: https://cdn.dongi.ir/storage/projectDocs/288/17169746116656f413ef08e1.93059694.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 67:**
+Project Name: فروش اقساطی خودرو
+Company Title: شرکت فنی و مهندسی مکانیک همراه آریا توسن
+Estimated Profit: 42.48
+Media Source: https://dongi.ir/storage/32000/923/b21313203a290dd73e64ef79ea7b2ae5.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 68:**
+Project Name: تامین سرمایه در گردش جهت تولید انواع نخ
+Company Title: نساجی وابل ریس
+Estimated Profit: 46.15
+Media Source: https://dongi.ir/storage/32000/905/08b4ee756522a18c85b692e2485dc83a.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 69:**
+Project Name: خرید مواد اولیه برای تولید ورق کارتن پنج لایه
+Company Title: تولیدی ورق کار پویا
+Estimated Profit: 48.09
+Media Source: https://dongi.ir/storage/32000/889/7b8b277010c60d0bade28a7acb2d3ca4.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 70:**
+Project Name: تأمین سرمایه در گردش برای خرید اقلام شرکت آوان پخش
+Company Title: آوان پخش چاپار
+Estimated Profit: 45
+Media Source: https://dongi.ir/storage/32000/876/89a2a218cc58b98b81863db549dd7d8d.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 71:**
+Project Name: خرید تجهیزات تست ساق مته و توپک جبران‌پذیر
+Company Title: حفاری زاویه
+Estimated Profit: 46
+Media Source: https://cdn.dongi.ir/storage/projectDocs/266/174238577967dab273ef2a66.65666529.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 72:**
+Project Name: خرید و فروش مواد غذایی و سلولزی آدرین
+Company Title: قائم پخش آدرین
+Estimated Profit: 43
+Media Source: https://dongi.ir/storage/32000/860/8e94afe1c0c6b1ceae9f613c4aeeddef.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 73:**
+Project Name: تامین سرمایه در گردش قراردادهای حمل و نقل داخلی طالخونچه
+Company Title: حمل و نقل کالای امید طالخونچه
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/841/a7e97e943770b3d0f719db0d5a6569e7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 74:**
+Project Name: تامین سرمایه در گردش فروش اقساطی تلفن همراه
+Company Title: شرکت کیان مبتکر فردا
+Estimated Profit: 14.25
+Media Source: https://dongi.ir/storage/32000/827/e6cfe2fdf605214a4ddb7a8a6f21c4f3.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 75:**
+Project Name: تأمین سرمایه در گردش تولید چهار ماده غذایی
+Company Title: کیفیت اندیشان جهان نگر
+Estimated Profit: 42.5
+Media Source: https://cdn.dongi.ir/storage/projectDocs/265/17168945376655bb491512f6.81206701.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 76:**
+Project Name: تامین سرمایه در گردش جهت تولید انواع روغن‌های صنعتی
+Company Title: شرکت فنی و مهندسی کیمیا فرآیند نقش جهان
+Estimated Profit: 46
+Media Source: https://dongi.ir/storage/32000/797/c407b952b36dfb720d3f1746ab8b441d.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 77:**
+Project Name: تأمین سرمایه در گردش تولید و فروش رزین آلکیدی
+Company Title: کیمیا کاوش امید
+Estimated Profit: 46
+Media Source: https://dongi.ir/storage/32000/796/671cc113d42d4951f7d5f1c87b4a161b.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 78:**
+Project Name: تأمین سرمایه در گردش جهت تولید انواع ماسه ریخته گری
+Company Title: شرکت ماسه ریخته گری چیروک
+Estimated Profit: 48.46
+Media Source: https://dongi.ir/storage/32000/771/83ac177761da346b3962d32cf52711a7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 79:**
+Project Name: خرید و فروش محصولات آرایشی و بهداشتی آتکو
+Company Title: آریان تجارت کیان امید
+Estimated Profit: 47
+Media Source: https://dongi.ir/storage/32000/741/d8dacfa2e767326c277a8c195658a094.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 80:**
+Project Name: تأمین سرمایه در گردش تولید و فروش انواع رزین کیمیا کاوش
+Company Title: کیمیا کاوش امید
+Estimated Profit: 46
+Media Source: https://dongi.ir/storage/32000/673/7c7c70d0177a14e9787ea558da999f2f.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 81:**
+Project Name: تامین سرمایه در گردش تجارت الیاف پلی‌استر گلریز
+Company Title: شرکت الیاف گلریز قم
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/678/641fb1d01552cc9dd78e26a0f9998a92.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 82:**
+Project Name: تامین سرمایه در گردش خرید و فروش کالاهای مصرفی و غذای سپاهان
+Company Title: سپاهان پخش سادات
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/606/1f0115e05c29432253bedbaa56665569.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 83:**
+Project Name: تامین سرمایه در گردش فروش لوازم مصرفی پزشکی پویان عافیت
+Company Title: پویان عافیت ثمین
+Estimated Profit: 46.05
+Media Source: https://cdn.dongi.ir/storage/projectDocs/238/174722646668248f62c9de25.16867302.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 84:**
+Project Name: مشارکت در تولید فروسیلیس
+Company Title: انرژی و معدن سیمیا
+Estimated Profit: 43.01
+Media Source: https://dongi.ir/storage/32000/652/d0740ee5e23e1bfe234710150633a799.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 85:**
+Project Name: تأمین سرمایه در گردش خرید برخی کالاهای شرکت آوان پخش
+Company Title: آوان پخش چاپار
+Estimated Profit: 42
+Media Source: https://dongi.ir/storage/32000/647/2ab7ebb38f0d523731df401f2d5fe4fb.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 86:**
+Project Name: تامين سرمايه در گردش همراه مکانیک
+Company Title: شرکت فنی و مهندسی مکانیک همراه آریا توسن
+Estimated Profit: 38.36
+Media Source: https://dongi.ir/storage/32000/607/50714c20810c520abd50bd2625aad648.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 87:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش مواد غذایی و سلولزی
+Company Title: قائم پخش آدرین
+Estimated Profit: 42
+Media Source: https://dongi.ir/storage/32000/605/6f7a98639e5f4bd721eda6245ac0b3f8.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 88:**
+Project Name: تامین سرمایه درگردش تولید شیر پاستوریزه مانیزان
+Company Title: شرکت تعاونی 121 فرآورده های لبنی بهار دالاهو مانیزان
+Estimated Profit: 46.96
+Media Source: https://dongi.ir/storage/32000/609/3fb5ec852e1e291d8afe814a6e0914fe.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 89:**
+Project Name: تامین سرمایه در گردش فروش لوازم مصرفی پزشکی
+Company Title: پویان عافیت ثمین
+Estimated Profit: 39.27
+Media Source: https://dongi.ir/storage/32000/580/921f78667996217c5826e31026ac42f7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 90:**
+Project Name: تامین سرمایه درگردش بازرگانی انواع باتری
+Company Title: ماد باطری کیش
+Estimated Profit: 47.05
+Media Source: https://dongi.ir/storage/32000/568/0512c2e46ae9337d622a2d12c40c6e60.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 91:**
+Project Name: تأمین سرمایه در گردش به منظور خرید تجهیزات شبکه
+Company Title: مفتاح رایانه افزار
+Estimated Profit: 38
+Media Source: https://cdn.dongi.ir/storage/projectDocs/222/174722657768248fd17bf302.46894348.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 92:**
+Project Name: تامین سرمایه در گردش الو قسطی
+Company Title: شرکت کیان مبتکر فردا
+Estimated Profit: 14.09
+Media Source: https://cdn.dongi.ir/storage/projectDocs/217/174150894067cd514c117321.41290327.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 93:**
+Project Name: تامین سرمایه در گردش ارائه خدمات مشاوره و آموزش بین‌الملل
+Company Title: دانش مان اینترنت اشیاء
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/559/92a5e0ae3cf4095273a7adc644f058a7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 94:**
+Project Name: تامین سرمایه در گردش تولید بسته‌های افزودنی روانکارها
+Company Title: شرکت مهندسی همگام صنعت صدر سپاهان
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/538/e5a7410d25157b2da653e1757e28c85c.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 95:**
+Project Name: راه اندازی خط تولید کاتد مس
+Company Title: پویش صنعت آریا
+Estimated Profit: 42.86
+Media Source: https://dongi.ir/storage/32000/539/c91d5f7fc57a974b17c0403d2d04523f.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 96:**
+Project Name: تامین سرمایه در گردش تولید و فروش انواع رزین
+Company Title: شرکت افرا چوب سبز ایرانیان
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/531/61573bdaa4c2553ad77dc9520741a94b.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 97:**
+Project Name: تامین سرمایه در گردش تولید 1920 عدد پالت فلزی
+Company Title: پانیانیر دکل سازه
+Estimated Profit: 33.6
+Media Source: https://dongi.ir/storage/32000/511/4e9e060b9ea0a55049da90e8df0766d7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 98:**
+Project Name: تولید و فروش محصول کنسانتره نهاده‌های دام و طیور
+Company Title: پیشگام دامپرور سپاهان
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/503/b3991b4e6e8d54e33930821019b38865.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 99:**
+Project Name: تامین سرمایه درگردش واردات و فروش کپسول گاز مبرد
+Company Title: شرکت تبریز موتور آسیا
+Estimated Profit: 43.05
+Media Source: https://cdn.dongi.ir/storage/projectDocs/198/174150927867cd529e92f8d8.69763856.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 100:**
+Project Name: تامین سرمایه در گردش جهت خرید و فروش کالاهای مصرفی و غذایی
+Company Title: سپاهان پخش سادات
+Estimated Profit: 48
+Media Source: https://dongi.ir/storage/32000/475/cfcdd6e368a16533b49eee5e97ff7518.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 101:**
+Project Name: تامین سرمایه در گردش تجارت کالای سارینا
+Company Title: سارینا تجارت  اسطوره
+Estimated Profit: 48.6
+Media Source: https://dongi.ir/storage/32000/477/7bc3540130d705405630807ef98b81ad.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 102:**
+Project Name: تامین سرمایه در گردش تولید و فروش مکمل دارویی (رینفولتیل)
+Company Title: بین المللی هستی دارو درمان
+Estimated Profit: 45.08
+Media Source: https://dongi.ir/storage/32000/447/f5f8f9cae08be104fefbd1f7d58be698.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 103:**
+Project Name: تامین سرمایه درگردش خرید نقدی انواع شوینده و شامپو
+Company Title: تجارت خلاق هدف
+Estimated Profit: 43.27
+Media Source: https://cdn.dongi.ir/storage/projectDocs/161/1747226977682491611aca38.18483598.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 104:**
+Project Name: سرمایه درگردش تولید استند وانیشا 2
+Company Title: راهکارهای خلاق بیتا
+Estimated Profit: 48.29
+Media Source: https://dongi.ir/storage/32000/427/2a7a5a1b5e485ae7c91d33344539dff2.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 105:**
+Project Name: تامین سرمایه به منظورخرید یک دستگاه HPLC
+Company Title: سپید طب آزمون
+Estimated Profit: 23.33
+Media Source: https://dongi.ir/storage/32000/390/149bcd1ce01d789c7fc68a30eee7e441.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 106:**
+Project Name: تامین سرمایه در گردش مورد نیاز تولید کاغذ پشت چسب‌دار
+Company Title: نوین برچسب هرمس
+Estimated Profit: 50.52
+Media Source: https://cdn.dongi.ir/storage/projectDocs/134/17472267426824907694f747.04710729.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 107:**
+Project Name: تامین سرمایه در گردش تولید بلوک سیمانی
+Company Title: تولید آجر ماشینی ایده آل قم
+Estimated Profit: 51.38
+Media Source: https://dongi.ir/storage/32000/355/07b889074e0ec2e649df2917d9b4e0a1.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 108:**
+Project Name: واردات 23 دستگاه فروش اتوماتیک (وندینگ ماشین)
+Company Title: فروش بان گستر ایرانیان
+Estimated Profit: 40.28
+Media Source: https://dongi.ir/storage/32000/350/3ad669b163fdbefd4db8c952d575ab34.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 109:**
+Project Name: تولید بوردهای پردازشی پیشرفته
+Company Title: شرکت مهندسی محققان یاسین (با مسوولیت محدود)
+Estimated Profit: 49.48
+Media Source: https://cdn.dongi.ir/storage/projectDocs/118/173546222767710d532a68a0.81003842.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 110:**
+Project Name: خرید دستگاه سورتینگ و بسته بندی تمام اتوماتیک میوه
+Company Title: شماره ۳۹۵ سردخانه ۷هزار تنی اتمسفری آجرلوی شاهین دژ
+Estimated Profit: 47.71
+Media Source: https://dongi.ir/storage/32000/334/adcfd9ac9946d6e11040f13e6d4a0ff2.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 111:**
+Project Name: تولید یخچال 5 فوت ایستکول
+Company Title: تکران مبرد
+Estimated Profit: 35.16
+Media Source: https://cdn.dongi.ir/storage/projectDocs/133/174722597968248d7b434e82.22021587.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 112:**
+Project Name: تامین سرمایه در گردش قسطی کلاب
+Company Title: یکتا اجاره هوشمند پویا
+Estimated Profit: 47.27
+Media Source: https://dongi.ir/storage/32000/297/8967f33050d3a305d8d64a5cbf6fc1e8.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 113:**
+Project Name: تولید مکمل های دارویی هستی دارو
+Company Title: بین المللی هستی دارو درمان
+Estimated Profit: 45.12
+Media Source: https://dongi.ir/storage/32000/296/04757f0766c8916e262908c90ab013e6.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 114:**
+Project Name: تجارت کالاهای مصرفی و غذایی هما 2
+Company Title: شرکت هما تجارت سمنان
+Estimated Profit: 26.71
+Media Source: https://dongi.ir/storage/32000/284/bdcb213eb0e990d64d176beda0cd7880.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 115:**
+Project Name: خرید و فروش دو دستگاه واتربلاستر صنعتی
+Company Title: فن توسعه منیب
+Estimated Profit: 16.16
+Media Source: https://cdn.dongi.ir/storage/projectDocs/117/172448586966c990ed6d5271.08759484.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 116:**
+Project Name: تولید چمدان های مسافرتی
+Company Title: جهان سفیر آساک
+Estimated Profit: 45.55
+Media Source: https://dongi.ir/storage/32000/249/c0b2819d54ef7f7eae930b415f305669.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 117:**
+Project Name: تامین سرمایه درگردش تولید ونتیلاتور
+Company Title: بهین طب یار کاسپین
+Estimated Profit: 44.71
+Media Source: https://dongi.ir/storage/32000/229/a1b64b01e186e24fceac009b648bbda7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 118:**
+Project Name: تامین سرمایه در گردش تجارت کالاهای مصرفی نیلا
+Company Title: شرکت نیلا تجارت بین الملل آینده
+Estimated Profit: 37.99
+Media Source: https://dongi.ir/storage/32000/227/25cb6d33cdcb83ccafbe841e5379e39d.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 119:**
+Project Name: توليد نوشابه‌انرژی‌زا
+Company Title: دنیای مهر اسپاد
+Estimated Profit: 36.82
+Media Source: https://dongi.ir/storage/32000/202/9c8d5e9a8fe732e54f3f3ef251014014.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 120:**
+Project Name: تامین سرمایه در گردش احیای تجهیزات پزشکی ویتا
+Company Title: ویستا تجهیز احیا
+Estimated Profit: 63.36
+Media Source: https://dongi.ir/storage/32000/215/58488255a8bdf915c834ab4670ae7fb7.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 121:**
+Project Name: تجارت کالاهای مصرفی و غذایی هما
+Company Title: شرکت هما تجارت سمنان
+Estimated Profit: 26.76
+Media Source: https://dongi.ir/storage/32000/187/1303c8add66b1d04aaf696889b71939e.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 122:**
+Project Name: تامین سرمایه تولید پودر مس
+Company Title: پویش صنعت آریا
+Estimated Profit: 36
+Media Source: https://dongi.ir/storage/32000/169/807f116be54ffcbfb66051b407e1e360.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 123:**
+Project Name: تامین سرمایه در گردش فرآوری زیتون 2
+Company Title: نیروگاه برق آبی باران
+Estimated Profit: 38.49
+Media Source: https://dongi.ir/storage/32000/170/5ffe4318fdeec07b254cf0e35d5426f6.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 124:**
+Project Name: تامین سرمایه در گردش خرید و فروش لاستیک خودرو کرمانشاه
+Company Title: پراو لاستیک کامبادن
+Estimated Profit: 45
+Media Source: https://dongi.ir/storage/32000/159/403a7783b8eb1922d00dc71f27533a2f.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 125:**
+Project Name: سرمایه درگردش تولید استند وانیشا
+Company Title: راهکارهای خلاق بیتا
+Estimated Profit: 41.58
+Media Source: https://dongi.ir/storage/32000/142/405499eb25bd137147486c0c8933d409.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 126:**
+Project Name: تامین سرمایه در گردش طرح فرآوری سیر
+Company Title: نیروگاه برق آبی باران
+Estimated Profit: 46.49
+Media Source: https://dongi.ir/storage/32000/141/e3d28506b06c61d8ee4f8f25aaf86d49.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 127:**
+Project Name: فروشگاه زنجیره‌ای ۳۶۰- شعبه اردبیل
+Company Title: توسعه پویا کالا خدمات شهران
+Estimated Profit: 54.2
+Media Source: https://dongi.ir/storage/32000/136/48869e4d3fdb38acb46a7c27a0cb19b5.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 128:**
+Project Name: تجارت کالاهای مصرفی آریسا
+Company Title: تجارت گستر آریسا
+Estimated Profit: 35.91
+Media Source: https://dongi.ir/storage/32000/129/06b9633538f45a0a8b2b305a9ab50c8c.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 129:**
+Project Name: تامین سرمایه در گردش نگین خودرو هوشمند
+Company Title: نگین خودرو هوشمند
+Estimated Profit: 50.09
+Media Source: https://dongi.ir/storage/32000/116/1eeed0b7dfaf6d21d851bd836a36d6e6.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 130:**
+Project Name: خرید و فروش کالاهای دیجیتال
+Company Title: ایده پردازان فناوری ارتباطات آراد
+Estimated Profit: 44.04
+Media Source: https://dongi.ir/storage/32000/106/6f6c19d7ab806eb49227668573eda790.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 131:**
+Project Name: تولید ماشین‌حساب قابل اتصال به پوز
+Company Title: پردازش های هوشمند ناوش آریا
+Estimated Profit: 21.59
+Media Source: https://dongi.ir/storage/32000/94/2e80ccceb72c88424130d5074b7e8ed7.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 132:**
+Project Name: تامین سرمایه در گردش واردات موبایل
+Company Title: جهان یاران مبتکر بازرگانی ویدا
+Estimated Profit: 44.6
+Media Source: https://dongi.ir/storage/32000/74/409c354dca16ccc8d9a2e9c876805c82.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 133:**
+Project Name: تامین سرمایه در گردش فرآوری زیتون
+Company Title: نیروگاه برق آبی باران
+Estimated Profit: 20.3
+Media Source: https://dongi.ir/storage/32000/69/10de177edfce8995406f5a8260a41997.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 134:**
+Project Name: تامین سرمایه در گردش همراه مکانیک
+Company Title: شرکت فنی و مهندسی مکانیک همراه آریا توسن
+Estimated Profit: 36
+Media Source: https://dongi.ir/storage/32000/42/4af3a1bc598ac09a7f3515e59b0e5547.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 135:**
+Project Name: خرید تجهیزات ارائه خدمات ابری
+Company Title: پارس پروا سیستم
+Estimated Profit: 59.6
+Media Source: https://dongi.ir/storage/32000/29/82c37baac0bc30186ed8bdeb4cadae4f.png
+Has Opportunity: False
+Has Warranty: False

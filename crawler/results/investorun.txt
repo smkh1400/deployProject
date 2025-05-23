@@ -1,0 +1,248 @@
+
+**Project 1:**
+Project Name: صنایع لاستیکی پارمیدا
+Company Title: صنایع لاستیکی پارمیدا
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/170/cover/67fbbd5b807c0.png
+Has Opportunity: True
+Has Warranty: False
+
+**Project 2:**
+Project Name: رهروان سپهر اندیشه
+Company Title: رهروان سپهر اندیشه
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/169/cover/67cd729575a9d.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 3:**
+Project Name: سامانه راهکار دلفین اسپادانا
+Company Title: سامانه راهکار دلفین اسپادانا
+Estimated Profit: 45
+Media Source: https://backend.investorun.com/storage/companies/168/cover/67c2e89a370c6.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 4:**
+Project Name: زیست اروند فارمد
+Company Title: زیست اروند فارمد
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/167/cover/67b9b32b87a5e.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 5:**
+Project Name: گروه صنعتی باراکا
+Company Title: گروه صنعتی باراکا
+Estimated Profit: 44
+Media Source: https://backend.investorun.com/storage/companies/165/cover/6795c35b5656f.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 6:**
+Project Name: نانوفناوران داروئی الوند
+Company Title: نانوفناوران داروئی الوند
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/164/cover/67752bb82e447.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 7:**
+Project Name: توسعه کسب و کارهای دریایی بادبان
+Company Title: توسعه کسب و کارهای دریایی بادبان
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/163/cover/677519550f747.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 8:**
+Project Name: نانو فناوران داروئی الوند
+Company Title: نانو فناوران داروئی الوند
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/162/cover/675e693f37ad3.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 9:**
+Project Name: گروه صنعتی باراکا
+Company Title: گروه صنعتی باراکا
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/161/cover/675e8a8841e05.png
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: ویستا تجهیز احیاء
+Company Title: ویستا تجهیز احیاء
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/160/cover/671f5955a5d52.jfif
+Has Opportunity: False
+Has Warranty: False
+
+**Project 11:**
+Project Name: نوآفرینان بهراد پارس
+Company Title: نوآفرینان بهراد پارس
+Estimated Profit: 36
+Media Source: https://backend.investorun.com/storage/companies/158/cover/672082ca5ed1e.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 12:**
+Project Name: دانش‌مان اینترنت اشیا (فاز 2)
+Company Title: دانش‌مان اینترنت اشیا (فاز 2)
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/159/cover/670cbe02dccd8.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 13:**
+Project Name: نوآفرینان بهراد پارس (فاز 1)
+Company Title: نوآفرینان بهراد پارس (فاز 1)
+Estimated Profit: 36
+Media Source: https://backend.investorun.com/storage/companies/157/cover/6703e40254335.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 14:**
+Project Name: چاپ‌ و بسته بندی ماتریس
+Company Title: چاپ‌ و بسته بندی ماتریس
+Estimated Profit: 45
+Media Source: https://backend.investorun.com/storage/companies/156/cover/66fd3b6336370.png
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: دارو سلامت فارمد 2
+Company Title: دارو سلامت فارمد 2
+Estimated Profit: 50
+Media Source: https://backend.investorun.com/storage/companies/155/cover/66ceecadb3be3.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 16:**
+Project Name: دارو سلامت فارمد
+Company Title: دارو سلامت فارمد
+Estimated Profit: 44
+Media Source: https://backend.investorun.com/storage/companies/154/cover/66c1f60a291e4.png
+Has Opportunity: False
+Has Warranty: True
+
+**Project 17:**
+Project Name: شاهین یدک پارسیان
+Company Title: شاهین یدک پارسیان
+Estimated Profit: 45
+Media Source: https://backend.investorun.com/storage/companies/153/cover/66bc9722a4df5.png
+Has Opportunity: False
+Has Warranty: True
+
+**Project 18:**
+Project Name: آینده سازان مهندسین ابرار
+Company Title: آینده سازان مهندسین ابرار
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/152/cover/66b30c55b67f7.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 19:**
+Project Name: پردیس گسترش اسپادانا
+Company Title: پردیس گسترش اسپادانا
+Estimated Profit: 48
+Media Source: https://backend.investorun.com/storage/companies/151/cover/66af74f020674.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 20:**
+Project Name: آریاطب فیروز
+Company Title: آریاطب فیروز
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/150/cover/668d0b6f214db.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 21:**
+Project Name: سامانه راهکار دلفین اسپادانا (مرحله دوم)
+Company Title: سامانه راهکار دلفین اسپادانا (مرحله دوم)
+Estimated Profit: 20.5
+Media Source: https://backend.investorun.com/storage/companies/149/cover/66825c7cb9f38.png
+Has Opportunity: False
+Has Warranty: False
+
+**Project 22:**
+Project Name: ویستا تجهیز احیاء(مرحله سوم)
+Company Title: ویستا تجهیز احیاء(مرحله سوم)
+Estimated Profit: 42.4
+Media Source: https://backend.investorun.com/storage/companies/148/cover/668255ee9f2d3.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 23:**
+Project Name: بازرگان گستر ارزش‌آفرین آسیا
+Company Title: بازرگان گستر ارزش‌آفرین آسیا
+Estimated Profit: 43
+Media Source: https://backend.investorun.com/storage/companies/147/cover/667923348f290.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 24:**
+Project Name: شرکت حمل و نقل امید طالخونچه
+Company Title: شرکت حمل و نقل امید طالخونچه
+Estimated Profit: 44
+Media Source: https://backend.investorun.com/storage/companies/140/cover/66641c7f56baa.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 25:**
+Project Name: داتیس آرین قشم (داتین)
+Company Title: داتیس آرین قشم (داتین)
+Estimated Profit: 14
+Media Source: https://backend.investorun.com/storage/companies/139/cover/66374eceb6a74.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 26:**
+Project Name: سامانه راهکار دلفین اسپادانا 1
+Company Title: سامانه راهکار دلفین اسپادانا 1
+Estimated Profit: 41
+Media Source: https://backend.investorun.com/storage/companies/138/cover/65f16cc91b432.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 27:**
+Project Name: دانش مان اینترنت اشیاء
+Company Title: دانش مان اینترنت اشیاء
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/137/cover/65e84ff9e3739.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 28:**
+Project Name: ویستا تجهیز احیاء(مرحله دوم)
+Company Title: ویستا تجهیز احیاء(مرحله دوم)
+Estimated Profit: 41
+Media Source: https://backend.investorun.com/storage/companies/136/cover/65e857e1c20e1.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 29:**
+Project Name: شرکت پرواز یاران سیرنگ
+Company Title: شرکت پرواز یاران سیرنگ
+Estimated Profit: 42
+Media Source: https://backend.investorun.com/storage/companies/105/cover/65ab51aef0d33.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 30:**
+Project Name: ویستا تجهیز احیاء
+Company Title: ویستا تجهیز احیاء
+Estimated Profit: 38
+Media Source: https://backend.investorun.com/storage/companies/104/cover/6523e7ac99937.jpg
+Has Opportunity: True
+Has Warranty: False
+
+**Project 31:**
+Project Name: آریا فناوران آرتا بینش
+Company Title: آریا فناوران آرتا بینش
+Estimated Profit: 25
+Media Source: https://backend.investorun.com/storage/companies/95/cover/6476e570b1c03.jpg
+Has Opportunity: False
+Has Warranty: False

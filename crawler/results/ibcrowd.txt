@@ -1,0 +1,1320 @@
+
+**Project 1:**
+Project Name: تامین سرمایه در گردش شرکت صنايع دستی آقاجانی جهت توليد و فروش ظروف تزئینی فيروزه‌کاری
+Company Title: صنايع دستی آقاجانی
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: True
+Has Warranty: True
+
+**Project 2:**
+Project Name: تامین سرمایه در گردش شرکت آذر روان ساز جهت توليد و فروش انواع روغن (صنعتی، هیدرولیک، ماشین‌آلات سنگین و دیزلی)
+Company Title: آذر روان ساز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 3:**
+Project Name: تامین سرمایه در گردش شرکت بازرگانی ستاره فلات ایرانیان جهت خرید و فروش انواع سنگ آهن
+Company Title: بازرگانی ستاره فلات ایرانیان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 4:**
+Project Name: تامین سرمایه در گردش شرکت پویش رایان داتیس جهت تولید و فروش مانیتور صنعتی و آیفون تصویری
+Company Title: پویش رایان داتیس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: تامین سرمایه در گردش شرکت کف ساز شرق جهت تولید و فروش محصولات شوینده؛
+Company Title: کف ساز شرق
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 6:**
+Project Name: تامین سرمایه در گردش شرکت گیلک دانه نوید جهت تولید و فروش پیش پرواری مرغ و محصول پایانی ماهی کپور
+Company Title: گیلک دانه نوید
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 7:**
+Project Name: تامین سرمایه در گردش شرکت صنايع دستی آقاجانی جهت توليد و فروش ظروف تزئینی فيروزه‌کاری
+Company Title: صنايع دستی آقاجانی
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: True
+Has Warranty: True
+
+**Project 8:**
+Project Name: تامین سرمایه در گردش شرکت آذر روان ساز جهت توليد و فروش انواع روغن (صنعتی، هیدرولیک، ماشین‌آلات سنگین و دیزلی)
+Company Title: آذر روان ساز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 9:**
+Project Name: تامین سرمایه در گردش شرکت بازرگانی ستاره فلات ایرانیان جهت خرید و فروش انواع سنگ آهن
+Company Title: بازرگانی ستاره فلات ایرانیان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: تامین سرمایه در گردش شرکت پویش رایان داتیس جهت تولید و فروش مانیتور صنعتی و آیفون تصویری
+Company Title: پویش رایان داتیس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 11:**
+Project Name: تامین سرمایه در گردش شرکت کف ساز شرق جهت تولید و فروش محصولات شوینده؛
+Company Title: کف ساز شرق
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 12:**
+Project Name: تامین سرمایه در گردش شرکت گیلک دانه نوید جهت تولید و فروش پیش پرواری مرغ و محصول پایانی ماهی کپور
+Company Title: گیلک دانه نوید
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 13:**
+Project Name: تامین سرمایه در گردش شرکت گیتا شیمی سهند جهت توليد و فروش سموم علف کش
+Company Title: گیتا شیمی سهند
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 14:**
+Project Name: تامین سرمایه در گردش شرکت دارو سلامت فارمد جهت توليد و فروش انواع قرص تقویتی
+Company Title: دارو سلامت فارمد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: تامین سرمایه در گردش شرکت عدالت روشن کارن جهت خرید و فروش انواع لوازم یدکی خودرو
+Company Title: عدالت روشن کارن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 16:**
+Project Name: تامین سرمایه در گردش شرکت تکران مبرد جهت تولید و فروش آبسردکن
+Company Title: شرکت تکران مبرد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 17:**
+Project Name: تامین سرمایه در گردش شرکت دنیای نوین عناصر کیان جهت توليد و فروش محصولات آرایشی و بهداشتی و ویتامین سی
+Company Title: دنیای نوین عناصر کیان
+Estimated Profit: 37
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 18:**
+Project Name: تامین سرمایه در گردش شرکت عالیفرد جهت تولید و فروش آبمیوه سن‌ایچ
+Company Title: عاليفرد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 19:**
+Project Name: تامین سرمایه در گردش شرکت پایدار پلیمر اوژن جهت تولید و فروش انواع پروفیل‌ و طلق‌ مهتابی
+Company Title: پایدار پلیمر اوژن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 20:**
+Project Name: تامین سرمایه در گردش شرکت گلرنگ فرش بیدگل جهت توليد و فروش نخ اکريليک
+Company Title: گلرنگ فرش بیدگل
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 21:**
+Project Name: تامین سرمایه در گردش شرکت تندیس پروتئین وطن جهت توليد و فروش محصولات گوشت گوسفندی
+Company Title: تندیس پروتئین وطن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 22:**
+Project Name: تامین سرمایه در گردش شرکت آژند فناوری ایساتیس جهت خرید و فروش کابل و تجهیزات خانه بازی
+Company Title: شرکت آژند فناوری ایساتیس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 23:**
+Project Name: تامین سرمایه در گردش شرکت نساجی ایران ریس البرز جهت توليد و فروش انواع نخ رنگی
+Company Title: نساجی ایران ریس البرز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 24:**
+Project Name: تامین سرمایه در گردش شرکت فرامید تجارت جهت توليد و فروش ام‌دی‌اف روکش‌دار پی‌وی‌سی
+Company Title: فرامید تجارت
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 25:**
+Project Name: تامین سرمایه در گردش شرکت جهان افروز جهت تولید و فروش ماشین ظرفشویی و ماشین لباسشویی
+Company Title: جهان افروز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 26:**
+Project Name: تامین سرمایه در گردش شرکت تندیس پروتئین وطن جهت توليد و فروش محصولات گوشت گوساله
+Company Title: تندیس پروتئین وطن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 27:**
+Project Name: تامین سرمایه در گردش شرکت زرین صنعت سرو جهت توليد و فروش انواع تن ماهی
+Company Title: زرین صنعت سرو
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 28:**
+Project Name: تامین سرمایه در گردش شرکت پگاه شعله خراسان جهت طراحی و تولید انواع برچسب گرافیکی
+Company Title: پگاه شعله خراسان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 29:**
+Project Name: تامین سرمایه در گردش شرکت ابیان فارمد جهت توليد و فروش انواع محصولات دارویی
+Company Title: ابیان فارمد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 30:**
+Project Name: تامین سرمایه در گردش شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش تلویزیون، جاروبرقی و فریزرصندوقی
+Company Title: توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 31:**
+Project Name: تامین سرمایه در گردش شرکت جهان افروز جهت تولید و فروش ماشین ظرفشویی و ماشین لباسشویی
+Company Title: جهان افروز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 32:**
+Project Name: تامین سرمایه در گردش شرکت تندیس پروتئین وطن جهت توليد و فروش محصولات گوشت گوساله
+Company Title: تندیس پروتئین وطن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 33:**
+Project Name: تامین سرمایه در گردش شرکت زرین صنعت سرو جهت توليد و فروش انواع تن ماهی
+Company Title: زرین صنعت سرو
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 34:**
+Project Name: تامین سرمایه در گردش شرکت پگاه شعله خراسان جهت طراحی و تولید انواع برچسب گرافیکی
+Company Title: پگاه شعله خراسان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 35:**
+Project Name: تامین سرمایه در گردش شرکت ابیان فارمد جهت توليد و فروش انواع محصولات دارویی
+Company Title: ابیان فارمد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 36:**
+Project Name: تامین سرمایه در گردش شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش تلویزیون، جاروبرقی و فریزرصندوقی
+Company Title: توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 37:**
+Project Name: تامین سرمایه در گردش شرکت جهان افروز جهت تولید و فروش ماشین ظرفشویی و ماشین لباسشویی
+Company Title: جهان افروز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 38:**
+Project Name: تامین سرمایه در گردش شرکت تندیس پروتئین وطن جهت توليد و فروش محصولات گوشت گوساله
+Company Title: تندیس پروتئین وطن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 39:**
+Project Name: تامین سرمایه در گردش شرکت زرین صنعت سرو جهت توليد و فروش انواع تن ماهی
+Company Title: زرین صنعت سرو
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 40:**
+Project Name: تامین سرمایه در گردش شرکت پگاه شعله خراسان جهت طراحی و تولید انواع برچسب گرافیکی
+Company Title: پگاه شعله خراسان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 41:**
+Project Name: تامین سرمایه در گردش شرکت ابیان فارمد جهت توليد و فروش انواع محصولات دارویی
+Company Title: ابیان فارمد
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 42:**
+Project Name: تامین سرمایه در گردش شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش تلویزیون، جاروبرقی و فریزرصندوقی
+Company Title: توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 43:**
+Project Name: تامین سرمایه در گردش شرکت مجتمع فولاد آذرآبادگان ارس جهت تولید و فروش شمش فولاد اس پی5
+Company Title: مجتمع فولاد آذرآبادگان ارس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 44:**
+Project Name: تامین سرمایه در گردش شرکت آذر روان ساز جهت توليد و فروش روغن پترونول و ردلوب
+Company Title: آذر روان ساز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 45:**
+Project Name: تامین سرمایه در گردش شرکت صنایع غذایی سحر همدان جهت تولید و فروش انواع رب
+Company Title: صنایع غذایی سحر همدان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 46:**
+Project Name: تامین سرمایه در گردش شرکت سیسارون شیمی جهت توليد و فروش محصولات اسيد پيروفسفات و بکینگ پودر؛
+Company Title: سیسارون شیمی
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 47:**
+Project Name: تامین سرمایه در گردش شرکت فروشگاه‌های زنجیره‌ای اوشانک جهت خرید و فروش گروه محصولات سلولزی و گروه محصولات روغن
+Company Title: فروشگاه‌های زنجیره‌ای اوشانک
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 48:**
+Project Name: تامین سرمایه در گردش شرکت پویش رایان داتیس جهت تولید و فروش انواع دزدگیر، دوربین‌های مدار بسته، سیستم‌های حفاظتی و هشداردهنده؛
+Company Title: پویش رایان داتیس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 49:**
+Project Name: تامین سرمایه در گردش شرکت مجتمع فولاد آذرآبادگان ارس جهت تولید و فروش شمش فولاد اس پی5
+Company Title: مجتمع فولاد آذرآبادگان ارس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 50:**
+Project Name: تامین سرمایه در گردش شرکت آذر روان ساز جهت توليد و فروش روغن پترونول و ردلوب
+Company Title: آذر روان ساز
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 51:**
+Project Name: تامین سرمایه در گردش شرکت صنایع غذایی سحر همدان جهت تولید و فروش انواع رب
+Company Title: صنایع غذایی سحر همدان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 52:**
+Project Name: تامین سرمایه در گردش شرکت سیسارون شیمی جهت توليد و فروش محصولات اسيد پيروفسفات و بکینگ پودر؛
+Company Title: سیسارون شیمی
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 53:**
+Project Name: تامین سرمایه در گردش شرکت فروشگاه‌های زنجیره‌ای اوشانک جهت خرید و فروش گروه محصولات سلولزی و گروه محصولات روغن
+Company Title: فروشگاه‌های زنجیره‌ای اوشانک
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 54:**
+Project Name: تامین سرمایه در گردش شرکت پویش رایان داتیس جهت تولید و فروش انواع دزدگیر، دوربین‌های مدار بسته، سیستم‌های حفاظتی و هشداردهنده؛
+Company Title: پویش رایان داتیس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 55:**
+Project Name: تامین سرمایه در گردش شرکت صنایع غذایی سحر همدان جهت تولید و فروش انواع سس و شوریجات
+Company Title: صنایع غذایی سحر همدان
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 56:**
+Project Name: تامین سرمایه در گردش شرکت زرین فولاد شهریاری جهت خرید و فروش انواع ورق سیاه، ورق رنگی و ورق روغنی
+Company Title: شرکت زرین فولاد شهریاری
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 57:**
+Project Name: تامین سرمایه در گردش شرکت کیمیا پرور ارسباران جهت تولید و فروش محصولات خوراک دامی
+Company Title: شرکت کیمیا پرور ارسباران
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 58:**
+Project Name: تامین سرمایه در گردش شرکت پرنیان پرواز شیمی جهت تولید و فروش انواع درزگیر
+Company Title: پرنیان پرواز شیمی
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 59:**
+Project Name: تامین سرمایه در گردش موسسه منطقه ویژه اقتصادی سرخس جهت خرید و فروش ریل
+Company Title: موسسه منطقه ویژه اقتصادی سرخس
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 60:**
+Project Name: تامین سرمایه در گردش شرکت گروه صنايع غذايي تنديس سلامت وطن جهت تولید و فروش انواع ماست
+Company Title: صنایع غذایی تندیس سلامت وطن
+Estimated Profit: 34
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 61:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تعاونی تولیدی سیم و کابل دامغان جهت تولید و فروش انواع سیم و کابل خودنگهدار آلومینیومی
+Company Title: شرکت تولیدی سیم و کابل دامغان
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 62:**
+Project Name: تامین سرمایه در گردش مورد نیاز جهت تولید و فروش موتور سیکلت مدل های اس پی 200، واریو 150 و دومینار 249 توسط شرکت عرفان سیکلت ایرانیان
+Company Title: شرکت عرفان سیکلت ایرانیان
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 63:**
+Project Name: تامین سرمایه در گردش شرکت کارا ماشین آرنا به منظور تولید و فروش انواع لیفتراک، تجهیزات انبارداری و خدمات پس از فروش آن
+Company Title: کارا ماشین آرنا
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 64:**
+Project Name: تأمین سرمایه در گردش شرکت هدیش سبز پارسه به منظور تولید و فروش تلویزیون 49 اینچ، 50 اینچ و 55 اینچ
+Company Title: شرکت هدیش سبز پارسه
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 65:**
+Project Name: تأمین سرمایه در گردش شرکت بازرگانی مروارید سرام یزد جهت خرید و فروش انواع سرامیک
+Company Title: شرکت بازرگانی مروارید سرام یزد
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 66:**
+Project Name: تامین سرمایه در گردش شرکت مدوک زیست دارو جهت تولید و فروش آلبومین و ایمونوگلوبولین
+Company Title: مدوک زیست دارو
+Estimated Profit: 35
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 67:**
+Project Name: تامین سرمایه در گردش شرکت آوانداد جهت تولید و فروش انواع سنگ های ساختمانی وارداتی
+Company Title: آوانداد
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 68:**
+Project Name: تامین سرمایه در گردش شرکت گلرنگ فرش بيدگل جهت تولید و فروش فرش ماشینی _۱2۰۰ شانه تراکم 36۰۰
+Company Title: گلرنگ فرش بیدگل
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 69:**
+Project Name: تامین سرمایه در گردش شرکت گروه توليدی و صنعتی و بازرگانی گناباد به منظور خرید و فروش انواع کود
+Company Title: گروه توليدی و صنعتی و بازرگانی گناباد
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 70:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت کیاکام فارمد جهت تولید و فروش ضد لک و روشن‌کننده صورت، ترمیم کننده و بازسازی کننده صورت و ضد آفتاب
+Company Title: کیاکام فارمد
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 71:**
+Project Name: تامین سرمایه در گردش موسسه منطقه ویژه اقتصادی سرخس جهت ارایه خدمات منطقه¬ای
+Company Title: موسسه منطقه ویژه اقتصادی سرخس
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 72:**
+Project Name: تامین سرمایه در گردش شرکت آکو پرديس آريا جهت تولید و فروش انواع فریزر صندوقی
+Company Title: شرکت آکو پرديس آريا
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 73:**
+Project Name: تامین سرمایه در گردش شرکت دام دشت وطن جهت تولید و فروش شیرخام
+Company Title: دام دشت وطن
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 74:**
+Project Name: تامین سرمایه در گردش شرکت دام دشت وطن جهت پرورش و فروش دارایی زیستی
+Company Title: دام دشت وطن
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 75:**
+Project Name: تامین سرمایه در گردش شرکت مجتمع توليدی طب و درمان طلايي کيش جهت توليد و فروش ست سرم و میکروست
+Company Title: مجتمع تولیدی طب و درمان طلایی کیش
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 76:**
+Project Name: تامین سرمایه در گردش شرکت فرش ستاره افشار به منظور تولید و فروش انواع فرش ماشینی
+Company Title: فرش ستاره افشار
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 77:**
+Project Name: تامین سرمایه در گردش شرکت توليدی ارمغان ستاره صدرا جهت تولید و فروش انواع تیاک بگ
+Company Title: تولیدی ارمغان ستاره صدرا
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 78:**
+Project Name: تامین سرمایه در گردش شرکت سپيدان شير فريمان جهت تولید و فروش انواع پنير پيتزا تاپینگ و پروسس
+Company Title: سپیدان شیر فریمان
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 79:**
+Project Name: تامین سرمایه در گردش شرکت گلرنگ فرش بيدگل جهت تولید و فروش فرش ماشینی (۱۵۰۰ شانه تراکم ۴۵۰۰)
+Company Title: گلرنگ فرش بیدگل
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 80:**
+Project Name: تأمین سرمایه در گردش شرکت سولار جهت خرید و فروش انواع لوازم خانگی
+Company Title: سولار
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 81:**
+Project Name: تامین سرمایه در گردش شرکت خوش نوش کوير به منظور تولید و فروش انواع بطری و پریفرم
+Company Title: خوش نوش کویر
+Estimated Profit: 33
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 82:**
+Project Name: تامین سرمایه در گردش شرکت گروه توليدی و صنعتی و بازرگانی گناباد به منظور خرید و فروش انواع بذر
+Company Title: گروه توليدی و صنعتی و بازرگانی گناباد
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 83:**
+Project Name: تامین سرمایه در گردش شرکت آريا جم شهاب به‌منظور تولید آبگرمکن و بخاری
+Company Title: آریا جم شهاب
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 84:**
+Project Name: تامین سرمایه در گردش شرکت مجتمع توليدی طب و درمان طلايي کيش
+Company Title: مجتمع تولیدی طب و درمان طلایی کیش
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 85:**
+Project Name: تامین سرمایه در گردش شرکت عدالت روشن کارن به منظور خرید و فروش خودرو و خدمات پس از فروش آن
+Company Title: عدالت روشن کارن
+Estimated Profit: 31
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 86:**
+Project Name: تامین سرمایه در گردش شرکت ترمه بافت آذر جهت تولید انواع گونی لمينت شده
+Company Title: ترمه بافت آذر
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 87:**
+Project Name: تامین سرمایه در گردش شرکت صنايع غذايي طعم شيرين ابرار به منظور تولید و فروش بخشی از محصولات خود
+Company Title: صنایع غذایی طعم شیرین ابرار- طرح دوم
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 88:**
+Project Name: تامین سرمایه در گردش شرکت پرنيان پرواز شيمی
+Company Title: پرنیان پرواز شیمی
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 89:**
+Project Name: تامین سرمایه در گردش شرکت صنايع غذايي طعم شيرين ابرار
+Company Title: صنایع غذایی طعم شیرین ابرار
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 90:**
+Project Name: تامین سرمایه در گردش شرکت صنايع خودروسازی ايليا
+Company Title: شرکت صنایع خودروسازی ایلیا
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 91:**
+Project Name: تامین سرمایه در گردش شرکت کیاکام فارمد به منظور تولید و فروش انواع محصولات آرایشی بهداشتی
+Company Title: کیاکام فارمد
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 92:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تولیدی سیم و کابل دامغان
+Company Title: شرکت تولیدی سیم و کابل دامغان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 93:**
+Project Name: تامین سرمایه در گردش شرکت سپهر وارنا البرز
+Company Title: سپهر وارنا البرز
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 94:**
+Project Name: تامین سرمایه در گردش شرکت ترمه بافت آذر
+Company Title: شرکت ترمه بافت آذر
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 95:**
+Project Name: تامین سرمایه در گردش شرکت الوند یاران سحر
+Company Title: شرکت الوندیاران سحر
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 96:**
+Project Name: تأمین سرمایه در گردش مورد نیاز جهت تولید و فروش انواع موتور سیکلت توسط شرکت عرفان سیکلت ایرانیان
+Company Title: شرکت عرفان سیکلت ایرانیان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 97:**
+Project Name: تامین سرمایه درگردش شرکت حمل و نقل همدانیان به منظور ارائه و فروش خدمات حمل و نقل کالا؛
+Company Title: حمل و نقل همدانیان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 98:**
+Project Name: تامین سرمایه در گردش شرکت ايرياتاش کيش
+Company Title: شرکت ایریاتاش کیش
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 99:**
+Project Name: تامین سرمایه در گردش شرکت سیم راد سما جهت تولید و فروش انواع مفتول آلومینیوم
+Company Title: سیم راد سما
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 100:**
+Project Name: تامین سرمایه در گردش شرکت الوند یاران سحر
+Company Title: شرکت الوندیاران سحر
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 101:**
+Project Name: تامین سرمایه در گردش مورد نیاز شرکت تدبیر سیستم منتخب
+Company Title: شرکت تدبیر سیستم منتخب
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 102:**
+Project Name: تامین سرمایه در گردش شرکت تولیدی بازرگانی تجهیز گستر تامین سلامت
+Company Title: شرکت توليدي بازرگاني تجهيز گستر تامين سلامت
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 103:**
+Project Name: تأمین سرمایه در گردش شرکت بازرگانی مروارید سرام یزد جهت خرید و فروش انواع کاشی
+Company Title: بازرگانی مروارید سرام یزد
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 104:**
+Project Name: تأمین سرمایه در گردش شرکت کلور ایرانیان شرق جهت تولید و فروش فریزر
+Company Title: کلور ایرانیان شرق
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 105:**
+Project Name: تامین سرمایه در گردش شرکت دارو سلامت فارمد ) به منظور خرید مواد اولیه جهت تولید و فروش مکمل های دارویی؛
+Company Title: دارو سلامت فارمد
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 106:**
+Project Name: تامین سرمایه در گردش شرکت تعاونی پويا آيش مازند جهت تولید و فروش کاغذ فلوت
+Company Title: شرکت تعاونی پويا آيش مازند
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 107:**
+Project Name: تامین سرمایه در گردش شرکت آریان تجارت کیان امید
+Company Title: شرکت آریان تجارت کیان امید
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 108:**
+Project Name: تامین سرمایه در گردش مورد نیاز شرکت ارج
+Company Title: شرکت ارج
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 109:**
+Project Name: تامین سرمایه در گردش شرکت تولیدی و پخش گرم آوران
+Company Title: شرکت تولیدی و پخش گرم آوران
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 110:**
+Project Name: تامین سرمایه در گردش شرکت سپهر وارنا البرز جهت خرید و فروش انواع میلگرد
+Company Title: سپهر وارنا البرز
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 111:**
+Project Name: تأمین سرمایه در گردش مورد نیاز جهت تولید و فروش خمیر کاغذ
+Company Title: شرکت پارس طبیعت سلولز
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 112:**
+Project Name: تامین سرمایه در گردش شرکت صنایع لاستیکی پارمیدا  جهت تولید و فروش نوارهای لاستیکی خودرو
+Company Title: صنایع لاستیکی پارمیدا
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 113:**
+Project Name: تامین سرمایه در گردش شرکت ایران شرق نیشابور
+Company Title: ایران شرق نیشابور
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 114:**
+Project Name: تأمین سرمایه در گردش مورد نیاز جهت تولید و فروش شمش آهن
+Company Title: صنعت تجارت پردیس آذربایجان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 115:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت صنعت تجارت پردیس آذربایجان جهت تولید و فروش میلگرد
+Company Title: صنعت تجارت پردیس آذربایجان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 116:**
+Project Name: تأمین سرمایه در گردش شرکت توليدي درب و پنجره کيان پن جهت خرید مواد اولیه و تولید و فروش پروفیل درب و پنجره
+Company Title: توليدي درب و پنجره کيان پن
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 117:**
+Project Name: سرمایه گذاری جهت تکمیل بخشی از پلتفرم دکتر نکست و بهره برداری از آن به منظور فروش خدمات الکترونیک حوزه سلامت
+Company Title: شرکت مداوا گستران ارکید
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 118:**
+Project Name: تامین سرمایه در گردش شرکت امین سالار آسمان
+Company Title: امین سالار آسمان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 119:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت ایده‌پردازان چوب و هنر سرمد جهت تولید و فروش انواع مبلمان و سرویس خواب
+Company Title: شرکت ایده‌پردازان چوب و هنر سرمد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 120:**
+Project Name: تامین سرمایه در گردش لازم برای شرکت خورشید فناوران نفیس (طرح د وم)
+Company Title: خورشید فناوران نفیس
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 121:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت شهرآرا کارن پارس جهت تولید و فروش انواع نوار لبه پی‌وی‌سی
+Company Title: شهرآرا کارن پارس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 122:**
+Project Name: تامین سرمایه در گردش شرکت صنایع خودروسازی پادرا(طرح دوم)
+Company Title: صنایع خودروسازی پادرا
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 123:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش انواع لوازم برقی، الکترونیکی و خانگی (طرح دوم)
+Company Title: شرکت توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 124:**
+Project Name: تامین سرمایه در گردش شرکت شرکت کشت و صنعت و دامپروری افق قلعه پارسيان
+Company Title: شرکت کشت و صنعت و دامپروری افق قلعه پارسيان
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 125:**
+Project Name: تامین سرمایه در گردش برای شرکت پردیس سازان نوید
+Company Title: شرکت پردیس سازان نوید
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 126:**
+Project Name: تامین سرمایه در گردش شرکت کاشی پارسیان سرام
+Company Title: شرکت کاشی پارسیان سرام میبد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 127:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت شهرآرا کارن پارس جهت تولید و فروش انواع نوار لبه پی‌وی‌سی
+Company Title: شهرآرا کارن پارس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 128:**
+Project Name: تامین سرمایه در گردش شرکت صنایع خودروسازی پادرا(طرح دوم)
+Company Title: صنایع خودروسازی پادرا
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 129:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش انواع لوازم برقی، الکترونیکی و خانگی (طرح دوم)
+Company Title: شرکت توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 130:**
+Project Name: تامین سرمایه در گردش شرکت شرکت کشت و صنعت و دامپروری افق قلعه پارسيان
+Company Title: شرکت کشت و صنعت و دامپروری افق قلعه پارسيان
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 131:**
+Project Name: تامین سرمایه در گردش برای شرکت پردیس سازان نوید
+Company Title: شرکت پردیس سازان نوید
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 132:**
+Project Name: تامین سرمایه در گردش شرکت کاشی پارسیان سرام
+Company Title: شرکت کاشی پارسیان سرام میبد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 133:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت پویش رایان داتیس جهت تولید و فروش انواع دوربین نطارتی و مانیتور
+Company Title: پویش رایان داتیس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 134:**
+Project Name: تامین سرمایه در گردش شرکت داناگام
+Company Title: داناگام
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 135:**
+Project Name: تامین سرمایه در گردش شرکت صنایع لاستیکی پارمیدا
+Company Title: صنایع لاستیکی پارمیدا
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 136:**
+Project Name: تامین سرمایه در گردش شرکت تولیدی کیسه ستاره طاها
+Company Title: شرکت تولیدی کیسه ستاره طاها
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 137:**
+Project Name: تامین سرمایه در گردش شرکت تولیدی مهندسین خبره میهن
+Company Title: تولیدی مهندسین خبره میهن
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 138:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت مکث الکترونیک مهدی‌شهر جهت تولید و فروش انواع لوازم خانگی
+Company Title: مکث الکترونیک مهدی شهر
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 139:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تکران مبرد جهت تولید انواع یخچال، فریزر و سردکن
+Company Title: شرکت تکران مبرد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 140:**
+Project Name: تامین سرمایه در گردش شرکت تیسان چوب ایرانیان
+Company Title: تیسان چوب ایرانیان
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 141:**
+Project Name: تامین سرمایه در گردش برای شرکت هدیش سبز پارسه(قسمت دوم)
+Company Title: شرکت هدیش سبز پارسه
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 142:**
+Project Name: تامین سرمایه در گردش برای شرکت به شاد دارو
+Company Title: شرکت به شاد دارو
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 143:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تعاونی تولیدی سیم و کابل دامغان جهت تولید و فروش انواع سیم و کابل
+Company Title: شرکت تولیدی سیم و کابل دامغان (بهفر)
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 144:**
+Project Name: تامین سرمایه در گردش برای شرکت هدیش سبز پارسه
+Company Title: شرکت هدیش سبز پارسه
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 145:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تکران مبرد جهت تولید انواع یخچال، فریزر و سردکن
+Company Title: شرکت تکران مبرد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 146:**
+Project Name: تامین سرمایه در گردش شرکت تیسان چوب ایرانیان
+Company Title: تیسان چوب ایرانیان
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 147:**
+Project Name: تامین سرمایه در گردش برای شرکت هدیش سبز پارسه(قسمت دوم)
+Company Title: شرکت هدیش سبز پارسه
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 148:**
+Project Name: تامین سرمایه در گردش برای شرکت به شاد دارو
+Company Title: شرکت به شاد دارو
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 149:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت تعاونی تولیدی سیم و کابل دامغان جهت تولید و فروش انواع سیم و کابل
+Company Title: شرکت تولیدی سیم و کابل دامغان (بهفر)
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 150:**
+Project Name: تامین سرمایه در گردش برای شرکت هدیش سبز پارسه
+Company Title: شرکت هدیش سبز پارسه
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 151:**
+Project Name: تامین سرمایه در گردش برای شرکت شهنور شمس
+Company Title: شرکت شهنور شمس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: True
+Has Warranty: True
+
+**Project 152:**
+Project Name: تامین سرمایه در گردش شرکت سرما گستر قومس
+Company Title: سرما گستر قومس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 153:**
+Project Name: تامین سرمایه در گردش لازم برای شرکت خورشید فناوران نفیس
+Company Title: خورشید فناوران نفیس
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 154:**
+Project Name: تامین سرمایه در گردش شرکت کاشی پارسیان سرام
+Company Title: شرکت کاشی پارسیان سرام میبد
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 155:**
+Project Name: تأمین سرمایه در گردش مورد نیاز جهت تولید ظروف یکبار مصرف سلولزی (بخش دوم)
+Company Title: شرکت پارس طبیعت سلولز
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 156:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت آریا جم شهاب جهت تولید انواع کولر
+Company Title: آریا جم شهاب
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 157:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت توسعه تجارت ثنا گستر ایرانیان جهت خرید و فروش انواع لوازم برقی، الکترونیکی و خانگی
+Company Title: شرکت توسعه تجارت ثنا گستر ایرانیان
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 158:**
+Project Name: تامین سرمایه در گردش شرکت گیلک دانه جهت خرید مواد اولیه تولید محصولات
+Company Title: شرکت گیلک دانه نوید
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 159:**
+Project Name: تامین سرمایه در گردش شرکت تجارت خلاق هدف(خانومی)
+Company Title: شرکت تجارت خلاق هدف
+Estimated Profit: 29
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 160:**
+Project Name: تامین سرمایه در گردش شرکت صنایع خودروسازی پادرا
+Company Title: صنایع خودروسازی پادرا
+Estimated Profit: 30
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 161:**
+Project Name: تأمین سرمایه در گردش مورد نیاز جهت تولید ظروف یکبار مصرف سلولزی
+Company Title: شرکت پارس طبیعت سلولز
+Estimated Profit: 28
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 162:**
+Project Name: تأمین سرمایه در گردش مورد نیاز شرکت ساختمانی کار به منظور تسویۀ مطالبات پیمانکاران شهرداری از محل دارایی‌های ساختمانی
+Company Title: شرکت ساختمانی کار
+Estimated Profit: 25.5
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 163:**
+Project Name: تامین سرمایه در گردش شرکت دنیای نوین عناصر کیان
+Company Title: دنیای نوین عناصر کیان
+Estimated Profit: 23
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 164:**
+Project Name: تأمین سرمایه در گردش مورد نیاز برای خرید بلیت مراکز تفریحی
+Company Title: شرکت آرمان فناوری هوشمند آریا
+Estimated Profit: 25
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: True
+Has Warranty: False
+
+**Project 165:**
+Project Name: تولید محصولات آرایشی و بهداشتی
+Company Title: شرکت داروسازی پارس حیان
+Estimated Profit: 25.5
+Media Source: https://demofree.sirv.com/nope-not-here.jpg
+Has Opportunity: True
+Has Warranty: False

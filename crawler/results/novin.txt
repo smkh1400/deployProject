@@ -1,0 +1,448 @@
+
+**Project 1:**
+Project Name: تامین سرمایه در گردش تولید روغن تصفیه شده کلزا
+Company Title: کشت و صنعت آرین طعم خزر
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/68106cf2c670c.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 2:**
+Project Name: تامین سرمایه در گردش فرآوری صنعتی روغن پالم
+Company Title: کشت و صنعت آرین طعم خزر
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6805d54f66583.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 3:**
+Project Name: تامین سرمایه در گردش تولید سیم‌های آلومینیومی با مغزی فولادی
+Company Title: سیم راد سما
+Estimated Profit: 47.0
+Media Source: https://novincrowd.ir/project_assets/images/67f62d27c279f.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 4:**
+Project Name: تامین مالی سرمایه در گردش فرآوری خاک مازاد آببندان کیاکلایه لنگرود
+Company Title: ساحل نقش
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67d5558b8ca92.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: تامین سرمایه در گردش تولید و صادرات سبد محصولات برند آنتیک
+Company Title: آنی تک اصفهان
+Estimated Profit: 48.0
+Media Source: https://novincrowd.ir/project_assets/images/67cfffe23c7d0.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 6:**
+Project Name: تامین مالی سرمایه در گردش تولید تجهیزات پزشکی نیوفرولوژیک
+Company Title: آریا طب فیروز
+Estimated Profit: 44.0
+Media Source: https://novincrowd.ir/project_assets/images/67c82123261b3.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 7:**
+Project Name: تامین سرمایه در گردش تولید آلیاژ فرو مولیبدن
+Company Title: تولیدی زنجان برنز
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67bbfc2625bfd.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 8:**
+Project Name: تامین مالی سرمایه در گردش تولید آنزیم رنت
+Company Title: توسعه بن دا فرآور
+Estimated Profit: 48.0
+Media Source: https://novincrowd.ir/project_assets/images/67cd2e1ceaf61.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 9:**
+Project Name: تامین سرمایه در گردش تولید سرخ کن رژیمی مدل 548
+Company Title: طنین اقتدار پارس
+Estimated Profit: 48.0
+Media Source: https://novincrowd.ir/project_assets/images/67cc03ed9f49c.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 10:**
+Project Name: تامین سرمایه در گردش تولید کامپوزیت هیبریدی لایت کیور چند منظوره
+Company Title: تولیدی پردیس مروابن فارمد
+Estimated Profit: 48.0
+Media Source: https://novincrowd.ir/project_assets/images/67cd29a1e7810.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 11:**
+Project Name: تامین سرمایه در گردش جهت تکمیل پروژه عمرانی نوآور دانش در پارک فناوری...
+Company Title: فناور سازان هوشمند پردیس
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67c5816c218b9.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 12:**
+Project Name: تامین سرمایه در گردش تولید شمش فولادی مورد نیاز صنعت فولاد
+Company Title: کوهرنگ غلطک پارس
+Estimated Profit: 47.0
+Media Source: https://novincrowd.ir/project_assets/images/67b303127c175.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 13:**
+Project Name: تامین سرمایه در گردش تولید روغن خام آفتابگردان
+Company Title: کشت و صنعت آرین طعم خزر
+Estimated Profit: 47.0
+Media Source: https://novincrowd.ir/project_assets/images/67b054c4927f0.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 14:**
+Project Name: ارائه خدمات آموزش، مشاوره و پیمانکاری در حوزه اینترنت اشیاء و فناوری های...
+Company Title: دانش مان اینترنت اشیاء
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67a830bdbf1f6.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: تامین سرمایه در گردش جهت تامین شمش فولادی برای صنایع
+Company Title: آکام تجارت ایساتیس
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67a07734204bc.webp
+Has Opportunity: False
+Has Warranty: True
+
+**Project 16:**
+Project Name: تامین سرمایه در گردش جهت توسعه زنجیره تامین البسه سازمانی
+Company Title: صنعت پوشاک آوید
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/67a07e3b8326e.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 17:**
+Project Name: تامین مالی سرمایه درگردش فروش محصولات آبرسان در پلتفرم خانومی
+Company Title: تجارت خلاق هدف
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6795cae57abd5.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 18:**
+Project Name: تامین سرمایه در گردش جهت افزایش ظرفیت تولید فرش ماشینی طرح دستبافت
+Company Title: شرکت فرش آویسا کاشان
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6795caf384c33.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 19:**
+Project Name: تامین بخشی از سرمایه در گردش جهت تامین تجهیزات و ادوات فروشگاهی
+Company Title: فاوا فناوری افق
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/678f97b857e98.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 20:**
+Project Name: تامین سرمایه در گردش جهت تولید داروی بوتولینوم توکسین گرید A
+Company Title: آترا زیست آرای
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/678f97cb0cbf3.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 21:**
+Project Name: تامین مالی سرمایه درگردش تامین نیاز مقاطع فولادی شرکت ها و صنایع
+Company Title: گروه صنعت سانا استیل
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6774e5a6b97a4.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 22:**
+Project Name: تامین سرمایه در گردش جهت تامین تجهیزات زیرساخت ICT فروشگاهی
+Company Title: فاوا فناوری افق
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/6770ef879ac9f.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 23:**
+Project Name: تامین مالی سرمایه درگردش فرآوری و تامین مقاطع فولادی برای صنایع فولاد
+Company Title: توسعه تجارت فرانام
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/676bf617c4725.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 24:**
+Project Name: تامین سرمایه در گردش جهت تولید آمپول پیرومول ( استامینوفن تزریقی)
+Company Title: تحقیقاتی و تولیدی واریان فارمد
+Estimated Profit: 39.0
+Media Source: https://novincrowd.ir/project_assets/images/67669778bd86e.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 25:**
+Project Name: تامین سرمایه در گردش ماده خام فرو منگنز کربن متوسط جهت صنایع فولاد...
+Company Title: انرژی و معدن سیمیا
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6762c4b899ea6.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 26:**
+Project Name: تامین سرمایه جهت تکمیل پروژه عمرانی نوآور جهش
+Company Title: فناور سازان هوشمند پردیس
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6758313266c8a.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 27:**
+Project Name: تامین سرمایه در گردش جهت تامین و توزیع کنسانتره سنگ‌ آهن جهت شرکت...
+Company Title: فولادگسترصادق
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67557f4dc854d.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 28:**
+Project Name: تامین سرمایه در گردش فرآوری آهن جهت فروش به کارخانجات تولید آهن و...
+Company Title: گروه کارخانجات صنعتی حدید قطعه سپاهان
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/674c4670f063a.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 29:**
+Project Name: تامین سرمایه در گردش فرآوری و توزیع غلات
+Company Title: بیسان سام یزد
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/674ee9f7781f1.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 30:**
+Project Name: تامین سرمایه در گردش فرآورش گازهای ارسالی به مشعل (جمع آوری و استحصال...
+Company Title: هیربد نیرو
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6744114fcd7aa.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 31:**
+Project Name: تامین سرمایه در گردش جهت افزایش ظرفیت تولید کنسرو با روش های نوین...
+Company Title: گلبرگ غذایی کوروش
+Estimated Profit: 40.0
+Media Source: https://novincrowd.ir/project_assets/images/674444077d008.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 32:**
+Project Name: تامین سرمایه در گردش جهت خرید مواد اولیه تولید و بسته بندی انواع...
+Company Title: هستی آرین تامین
+Estimated Profit: 40.0
+Media Source: https://novincrowd.ir/project_assets/images/674583a668aaa.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 33:**
+Project Name: تامین بخشی از سرمایه در گردش جهت واردات برنج
+Company Title: شرکت کشت و صنعت برنج کوروش
+Estimated Profit: 40.0
+Media Source: https://novincrowd.ir/project_assets/images/673dbea1ca367.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 34:**
+Project Name: تامین سرمایه در گردش تولید کامپوزیت پلی پروپیلن الیاف دار
+Company Title: شرکت پردیس گسترش اسپادانا
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/673b0374aa58d.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 35:**
+Project Name: تامین تجهیزات سرمایشی با تکیه بر فناوری های نوین
+Company Title: مهندسین مشاور نسیم تهویه ایرانیان
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/673475eb0c723.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 36:**
+Project Name: سرمایه در گردش جهت افزایش ظرفیت تولید و فرآوری انواع مشتقات نبات
+Company Title: طلای ناب کوروش
+Estimated Profit: 40.0
+Media Source: https://novincrowd.ir/project_assets/images/67383fa34849d.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 37:**
+Project Name: خرید دستگاه رشنال به منظور افزایش ظرفیت تولید مواد غذایی فرآوری شده
+Company Title: مجموعه رستوران های عمارت وکیل
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/6731b23bae871.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 38:**
+Project Name: احداث خط تولید فرآوری کربوهیدرات حجیم شده اکسترود شده
+Company Title: صنعت خشکبار و حبوبات کوروش
+Estimated Profit: 40.0
+Media Source: https://novincrowd.ir/project_assets/images/672f3bb14ae73.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 39:**
+Project Name: طراحی، تامین تجهیزات نصب، تست و راه اندازی پست ۲۰/۶۶ کیلو ولت منطقه...
+Company Title: یکتا نیروی خاور
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/672af74b72f7e.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 40:**
+Project Name: تامین سرمایه احداث واحد تولیدی و کلین روم جهت تولید قطره‌ های پزشکی
+Company Title: باران سلامت فارمد
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/67260c0951111.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 41:**
+Project Name: تامین سرمایه در گردش جهت افزایش ظرفیت تولید محصولات غذایی
+Company Title: گلبرگ غذایی کوروش
+Estimated Profit: 42.0
+Media Source: https://novincrowd.ir/project_assets/images/6722208f575f2.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 42:**
+Project Name: تامین سرمایه در گردش جهت بهبود زنجیره تامین کیسه های رکابی با استفاده...
+Company Title: قائم پخش آدرین
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/671cac3ae55e3.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 43:**
+Project Name: تامین سرمایه در گردش جهت تولید و فروش 30،000 عدد پیچ ستون فقرات
+Company Title: کیا تولید طبستان
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/671e381349258.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 44:**
+Project Name: تامین سرمایه در گردش تولید پارکینگ مکانیزه
+Company Title: فرداد سرمایه ثمین
+Estimated Profit: 46.0
+Media Source: https://novincrowd.ir/project_assets/images/67133d683bfe1.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 45:**
+Project Name: تامین سرمایه خرید ماشین آلات و تجهیزات جهت افزایش ظرفیت تولید خشکبار
+Company Title: صنعت خشکبار و حبوبات کوروش
+Estimated Profit: 42.0
+Media Source: https://novincrowd.ir/project_assets/images/67063e0f58c4f.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 46:**
+Project Name: تامین سرمایه در گردش تولید دستگاه‌ های همودیالیز  ای تی اف 1022...
+Company Title: آریا طب فیروز
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/670bc4cd95c80.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 47:**
+Project Name: تامین مالی در تولید و فروش 27،500 ست چرخ‌ دنده نیسان
+Company Title: دارکوب سپهر آسیا
+Estimated Profit: 47.0
+Media Source: https://novincrowd.ir/project_assets/images/66fbadd7db9b4.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 48:**
+Project Name: تامین سرمایه در گردش جهت فرآوری و تامین و بسته بندی و عملیات...
+Company Title: بیسان سام یزد
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/66f3d2e6e1771.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 49:**
+Project Name: تأمین سرمایه در گردش جهت تولید، سورت و بسته‌بندی برنج سفید
+Company Title: شرکت کشت و صنعت برنج کوروش
+Estimated Profit: 42.0
+Media Source: https://novincrowd.ir/project_assets/images/66f3ca0cf23b2.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 50:**
+Project Name: تأمین سرمایه در گردش خرید تجهیزات خط تولید و بسته بندی و فروش...
+Company Title: هستی آرین تامین
+Estimated Profit: 42.0
+Media Source: https://novincrowd.ir/project_assets/images/66eab6eac37b4.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 51:**
+Project Name: تامین سرمایه در گردش احیای چاه های کم بازده نفتی
+Company Title: هیربد نیرو
+Estimated Profit: 48.0
+Media Source: https://novincrowd.ir/project_assets/images/66e7f0a4a135b.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 52:**
+Project Name: خرید تجهیزات خط تولید و بسته بندی و صادرات انواع خرما
+Company Title: طلای ناب کوروش
+Estimated Profit: 42.0
+Media Source: https://novincrowd.ir/project_assets/images/66e6d1c35268b.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 53:**
+Project Name: تامین سرمایه در گردش جهت خالص سازی سنگ آهن معدن چادرملو
+Company Title: شرکت صنعت و معدن یزد یوتاب
+Estimated Profit: 43.0
+Media Source: https://novincrowd.ir/project_assets/images/66e537b2635a2.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 54:**
+Project Name: تامین سرمایه در گردش جهت تامین باتری‌ خودروهای سنگین
+Company Title: ماد باطری کیش
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/66d4013732ff0.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 55:**
+Project Name: تامین سرمایه در گردش مربوط به تولید نخ پروپیلن BCF
+Company Title: ریسندگی و بافندگی زرباف یزد
+Estimated Profit: 44.0
+Media Source: https://novincrowd.ir/project_assets/images/66b5f196adce3.webp
+Has Opportunity: False
+Has Warranty: False
+
+**Project 56:**
+Project Name: احداث پست 20/63 کیلو ولت جلابی استان هرمزگان
+Company Title: یکتا نیروی خاور
+Estimated Profit: 45.0
+Media Source: https://novincrowd.ir/project_assets/images/66af0ce4560e9.jpg
+Has Opportunity: False
+Has Warranty: False

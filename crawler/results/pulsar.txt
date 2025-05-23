@@ -1,0 +1,264 @@
+
+**Project 1:**
+Project Name: طرح تامین سرمایه درگردش خرید قطعه متصله گیربکس و ریتاردر برای تولید خودروهای سنگین تجاری
+Company Title: پولسدیزل
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/E78E9BA3A12A439283EF221A052ACB89.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 2:**
+Project Name: تامین سرمایه در گردش بهره برداری از پروژه توسعه تولیدات عصاره
+Company Title: پولسلذیذ
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/175D39B6E19D445EBE4881B2AAFA3481.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 3:**
+Project Name: تامین سرمایه در گردش خرید قطعات متصله موتور برای تولید خودروهای سنگین تجاری
+Company Title: پولسویرا
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/97DBE857F53A4376AE46E1EC73F7C120.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 4:**
+Project Name: تامین سرمایه درگردش جهت صدور بیمه نامه‌های حیوانات خانگی
+Company Title: پولسضامن
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/DA4F3EE1C59644C9B436E8DDF78B3F97.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: طرح تامین سرمایه درگردش جهت تاسیس خانه بازی بزرگسالان (Big Kids)
+Company Title: پولسخانه
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/138B8E6E68B347B6BEA2D5F2061AD148.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 6:**
+Project Name: طرح تامین سرمایه در گردش جهت توسعه شعب (شعبه دومان و برج آناهید)
+Company Title: پولسشعبه
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/593E869035CB40BD908DDB2A7EEC563E.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 7:**
+Project Name: تامین سرمایه در گردش خرید اسباب بازی
+Company Title: پولسبازی
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/F9953FD53C8A4E87811568E3865AAB15.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 8:**
+Project Name: طرح تامین سرمایه در گردش جهت تولید تلویزیون‌های  LED و QLED
+Company Title: پولتجارت
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/3AA1CC21436D4D2FB8DE25460C5FA02A.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 9:**
+Project Name: تامین سرمایه در گردش جهت توسعه زیرساخت صدور بیمه‌نامه‌های تجهیزات الکترونیک
+Company Title: پولسبیمه
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/A8D6DA471965487E9A38C5B525B1CF24.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: تامین سرمایه در گردش خرید گوشت قرمز(گوشت گوسفندی)
+Company Title: پولسارشب
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/AD0DFF1E0DC941048812D9E5500E2262.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 11:**
+Project Name: تامین سرمایه در گردش خرید قطعات یدکی ماشین‌آلات چاپ و بسته‌بندی
+Company Title: پولساچاپ
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/EB712F2B6EC747CABC812588934A445C.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 12:**
+Project Name: طرح تامین سرمایه در گردش خرید و صادرات سیب
+Company Title: پولساسیب
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/A5003C4B62524F50BEFAC67504EDA06F.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 13:**
+Project Name: تامین سرمایه در گردش خرید ملزومات چاپ افست(مرکب و انواع کوتینگ)
+Company Title: پولسافست
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/606E8127AD774BD9B0CE560E11FAAFE3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 14:**
+Project Name: تامین سرمایه در گردش خرید و صادرات کیوی
+Company Title: پولسکیوی
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/6BBC230A7AA94C06ACB8EF3F994257B6.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: طرح تامین سرمایه در گردش تولید 270 تن انواع جعبه مقوایی بسته‌بندی
+Company Title: پولسترام
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/8AF64356CC194FD69194C91B3C9F7F0F.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 16:**
+Project Name: تامین سرمایه در گردش به ‌منظور تولید و فروش متر و قطعات قیچی باغبانی
+Company Title: پارمسدید
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/243B3CE9C8FD44E69B8559EAD523E76C.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 17:**
+Project Name: تامین سرمایه در گردش جهت تولید قطعات پروتزی دندانپزشکی
+Company Title: پول_دایو
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/B35BEA761B0C4716A05B17F5165369BB.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 18:**
+Project Name: تامین سرمایه در گردش واردات پریمیلد لابراتواری
+Company Title: پریمنگین
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/BAD5EF53940A4C03995522A7D762B672.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 19:**
+Project Name: تامین سرمایه در گردش به منظور واردات کیت های جراحی دندانپزشکی
+Company Title: پکیتنگین
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/D08F16CB4DE045B0B47AF336DD3C1299.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 20:**
+Project Name: تامین سرمایه در گردش به منظور خرید و فروش تایرهای تولید خارج از کشور
+Company Title: پلاستیکی
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/C6718AA9E93E4F87B0CFF046A850ADF3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 21:**
+Project Name: تامین سرمایه در گردش جهت خرید مواد اولیه برای تولید چای
+Company Title: پچایمانی
+Estimated Profit: 40
+Media Source: https://pulsar.ir/uploads/2FD9EDF42C864FC498F88C19E9A5E738.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 22:**
+Project Name: تامین سرمایه در گردش به منظور تولید، توزیع و فروش کاشی سرامیک
+Company Title: پگلدکاشی
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/345DD4A82FA3407186497F8F415F5D1D.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 23:**
+Project Name: تامین سرمایه در گردش خرید مواد اولیه جهت تولید انواع چسب
+Company Title: پرزینچسب
+Estimated Profit: 31
+Media Source: https://pulsar.ir/uploads/84123499EDE4455EBE9BED81A8A21832.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 24:**
+Project Name: تامین سرمایه در گردش به منظور راه‌اندازی خط تولید سرامیک های طرح موزائیک با شیشه بازیافتی
+Company Title: پگلدیسکا
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/82A09136D06A45DBB0939FC6F2FD5070.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 25:**
+Project Name: تامین سرمایه در گردش تولید نخ پنبه ملانژ
+Company Title: پنبه_ریس
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/22FCE33CCCE149AB84E2181E9CB464D8.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 26:**
+Project Name: تامین سرمایه در گردش تولید شمش 15 در 15 سانتی متر به طول 6 متر با گرید 5 اس پی
+Company Title: پحدیدشمش
+Estimated Profit: 32
+Media Source: https://pulsar.ir/uploads/C8FB1C5CD0854FC19D724B5BB469554A.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 27:**
+Project Name: تامین سرمایه در گردش تولید نخ پنبه نمره سی و پنجاه
+Company Title: پنخ_ریسی
+Estimated Profit: 35
+Media Source: https://pulsar.ir/uploads/DBDF7A02748843D9B3AF5908E475FDFB.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 28:**
+Project Name: تولید ایمپلنت دندانپزشکی
+Company Title: پارسایمپ
+Estimated Profit: 31
+Media Source: https://pulsar.ir/uploads/F099092FC7EC4A23A8657B203178B8E9.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 29:**
+Project Name: تولید اباتمنت دندان پزشکی
+Company Title: پارسابات
+Estimated Profit: 31
+Media Source: https://pulsar.ir/uploads/F4ADD9DE49FB41B4A76A7EEE4826214F.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 30:**
+Project Name: تامین سرمایه‌ در گردش‌ برای‌ واردات‌ فیکسچر و ابانتمنت دندان
+Company Title: پارسفیکس
+Estimated Profit: 31.5
+Media Source: https://pulsar.ir/uploads/43047689C0034BD4BF4EE3D38EFBE105.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 31:**
+Project Name: تامین سرمایه‌ در گردش‌ برای‌ واردات‌ ایمپلنت‌ کامل‌ دندان
+Company Title: پارسلمین
+Estimated Profit: 31.5
+Media Source: https://pulsar.ir/uploads/C29D2791A616455F95B4BF257DBF76B3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 32:**
+Project Name: تولیدات نودل ساشه‌ای
+Company Title: پلذیذغذا
+Estimated Profit: 30
+Media Source: https://pulsar.ir/uploads/96FE1ADC9366439C825CD7BA61690D86.jpg
+Has Opportunity: False
+Has Warranty: False
+
+**Project 33:**
+Project Name: سرمایه در گردش تولید کیت تشخیصی ویتامین ب 12 با روش الایزا
+Company Title: پکیت_ب12
+Estimated Profit: 34
+Media Source: https://pulsar.ir/uploads/6CCB85A7187C4B189EE104275CB8C9D9.jpg
+Has Opportunity: False
+Has Warranty: False

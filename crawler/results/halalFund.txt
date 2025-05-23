@@ -1,0 +1,480 @@
+
+**Project 1:**
+Project Name: تأمین سرمایه در گردش به منظور تولید سرم نیاسینامید وسرم ویتامین ث برایت
+Company Title: کیاکام فارمد
+Estimated Profit: 45
+Media Source: https://halalfund.ir/ProjectFiles/2025/4/26/43013/image.png%20%2813%29.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 2:**
+Project Name: تأمین سرمایه در گردش جهت تولید نخ ATY پلی‌استر
+Company Title: ریسندگی و بافندگی زرباف یزد
+Estimated Profit: 45
+Media Source: https://halalfund.ir/ProjectFiles/2025/4/22/31712/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 3:**
+Project Name: تأمین سرمایه در گردش جهت توسعه بازار اپلیکیشن مانیرو
+Company Title: سامانه پایاپای رانک
+Estimated Profit: 45
+Media Source: https://halalfund.ir/ProjectFiles/2025/4/15//Untitled-1.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 4:**
+Project Name: تأمین سرمایه در گردش جهت تصفیه روغن خام سویا
+Company Title: شرکت کشت و صنعت آرین طعم خزر
+Estimated Profit: 44
+Media Source: https://halalfund.ir/ProjectFiles/2025/3/10/50177/freepik__soybean-oil-refining__55716.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 5:**
+Project Name: تأمین سرمایه در گردش جهت خرید و فروش انواع بتن کن و چکش تخریب
+Company Title: هشتی آفرینان سپهر
+Estimated Profit: 43
+Media Source: https://halalfund.ir/ProjectFiles/2025/3/1/50115/IMG_1911.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 6:**
+Project Name: تأمین سرمایه در گردش جهت خرید و فروش دستگاه آبمیوه گیری
+Company Title: رادمان صنعت دیبا
+Estimated Profit: 43
+Media Source: https://halalfund.ir/ProjectFiles/2025/3/4//freepik__juicer-manufacturing-plant__55715.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 7:**
+Project Name: تأمین سرمایه در گردش جهت تولید اوراق فشرده چوبی ملامینه
+Company Title: صنایع چوب آفتاب آسیا شمال
+Estimated Profit: 42
+Media Source: https://halalfund.ir/ProjectFiles/2025/2/23//20250223_135714_2018234595.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 8:**
+Project Name: تأمین سرمایه در گردش جهت تکمیل تجهیزات پروژه شیرین سازی گاز ترش سروستان
+Company Title: ساخت تجهیزات آریا اروند
+Estimated Profit: 43
+Media Source: https://halalfund.ir/ProjectFiles/2025/2/11/48628/technological_columns_gas_processing_plant_stand_against_background.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 9:**
+Project Name: تأمین سرمایه در گردش جهت فروش اقساطی خط تولید مصنوعات چوبی
+Company Title: همکاری های صنعتی امین فناوران پردیس
+Estimated Profit: 42
+Media Source: https://halalfund.ir/ProjectFiles/2025/2/16/451/production_line_wooden_floor_factory_cnc_automatic_woodworking_machine.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 10:**
+Project Name: تأمین سرمایه در گردش جهت خرید و فروش باتری خودروهای ایرانی
+Company Title: مادباتری
+Estimated Profit: 42
+Media Source: https://halalfund.ir/ProjectFiles/2025/2/5/49687/car-technician-replaces-dead-car-battery-winter-conditions.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 11:**
+Project Name: تامین مالی جهت تکمیل و فروش دو واحد از پروژه ساختمانی رویال آتلانتیس کیش
+Company Title: شرکت توسعه و سرمایه گذاری مسکن ایرسا ساز کیش
+Estimated Profit: 42
+Media Source: https://halalfund.ir/ProjectFiles/2025/2/5/49678/IMG_1751.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 12:**
+Project Name: تأمین سرمایه در گردش جهت تولید مواد کامپاند پلی پروپیلن
+Company Title: توسعه صنعتی مهر هیو پارس
+Estimated Profit: 42
+Media Source: https://halalfund.ir/ProjectFiles/2025/1/21//file-DGyAHUzrZWBvZiwokLUEit%20%281%29%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 13:**
+Project Name: تأمین سرمایه جهت تولید انواع کرم ضد آفتاب
+Company Title: متقاضی:دنیای نوین عناصر کیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2025/1/21//IMG_20250121_173338_356.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 14:**
+Project Name: تأمین سرمایه در گردش جهت تولید سرخ کن مدل 547
+Company Title: متقاضی:شرکت طنین اقتدار پارس
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2025/1/12//IMG_20250112_151836_176.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 15:**
+Project Name: تأمین سرمایه در گردش جهت تولید انواع خوراک مرغ (پِلِت)
+Company Title: متقاضی:پارسادان طبرستان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2025/1/7/45877/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9-%D8%B7%DB%8C%D9%88%D8%B1%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 16:**
+Project Name: تأمین سرمایه در گردش جهت تولید روفرشی
+Company Title: متقاضی:ریسندگی و بافندگی زرباف یزد
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2025/1/6/31712/file-R1CafPdqq8mS3eE9aaFcgh_11zon.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 17:**
+Project Name: تأمین سرمایه در گردش تولید پکیج دی هایدژن
+Company Title: متقاضی:ساخت تجهیزات آریا اروند
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/11/20//55.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 18:**
+Project Name: تأمین سرمایه در گردش جهت فروش خط کامل شستشو و بازیافت مواد پلاستیکی PET
+Company Title: متقاضی:توسعه مبادلات فناورانه ایرانیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/11/18//%D8%B9%DA%A9%D8%B3%20%282%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 19:**
+Project Name: تأمین بخشی از سرمایه در گردش جهت ساخت مجتمع فناوری در پارک علم و فناوری ایرانیان
+Company Title: متقاضی:مدیریت سرمایه بهین تدبیر
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/11/17/13718/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 20:**
+Project Name: تأمین سرمایه در گردش خرید محصولات الکترونیک و رباتیک
+Company Title: متقاضی:نوآوران رباتیک شریف
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/30/48203/BMW_Leipzig_MEDIA_050719_Download_Karosseriebau_max.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 21:**
+Project Name: تأمین سرمایه در گردش جهت خرید دانه روغنی سویا
+Company Title: متقاضی:صنایع غذایی سودا طلایی شمال
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/27/48002/64c3b05cc42c9.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 22:**
+Project Name: تامین سرمایه جهت اجرای پروژه لاهیجان
+Company Title: متقاضی:گروه توسعه اقتصادی آینده اندیشه ایرانیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/23/6405/20240928_151725%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 23:**
+Project Name: تأمین سرمایه در گردش جهت تولید کود بیولوژیک(زیستی ریشه‌زا)
+Company Title: متقاضی:الوند دانه خمین
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/22/47745/_72324d1c-7773-444a-ad8d-230810726ee2%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 24:**
+Project Name: تأمین سرمایه در گردش جهت تولید و فروش انواع گز بادامی آنی تک
+Company Title: متقاضی:آنی تک اصفهان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/15/47676/%DA%AF%D9%84%D8%B1%DB%8C%D8%B2.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 25:**
+Project Name: تأمین سرمایه در گردش جهت صادرات گرید ظروف یکبار مصرف
+Company Title: متقاضی:شرکت توسعه کسب و کار هوشمند سهند ایرانیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/13/22935/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 26:**
+Project Name: تأمین سرمایه در گردش جهت تولید انواع پوشرنگ
+Company Title: متقاضی:بهکوشان توسعه رسام
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/10/7/46931/%D8%B9%DA%A9%D8%B3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 27:**
+Project Name: تأمین بخشی از سرمایه در گردش مورد نیاز جهت تولید و فروش کامپوزیت آلومینیومی
+Company Title: متقاضی:شرکت پدیده آذران
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/9/17//IMG_20240917_163546.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 28:**
+Project Name: تأمین سرمایه در گردش جهت تولید رنگ‌های ساختمانی
+Company Title: متقاضی:بهکوشان توسعه رسام
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/9/1/46931/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 29:**
+Project Name: تأمین سرمایه در گردش جهت تولید و فروش آجیل و خشکبار
+Company Title: متقاضی:بهراد مازند شمال
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/8/11/45923/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A2%D8%AC%DB%8C%D9%84-%D8%AF%D8%B3%D8%AA%DA%86%DB%8C%D9%86-min.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 30:**
+Project Name: تأمین سرمایه در گردش جهت تولید انواع خوراک طیور
+Company Title: متقاضی:پارسادان طبرستان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/8/10/45877/%D8%B9%DA%A9%D8%B3.jpeg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 31:**
+Project Name: HPL تأمین بخشی از سرمایه در گردش مورد نیاز جهت تولید انواع ورق‌های
+Company Title: متقاضی:شرکت پدیده آذران
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/8/5//%D9%BE%D8%AF%DB%8C%D8%AF%D9%87%20%D8%A2%D8%B0%D8%B1%D8%A7%D9%86.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 32:**
+Project Name: تأمین سرمایه در گردش به منظور تولید و فروش لوازم آرایشی
+Company Title: متقاضی:کیاکام فارمد
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/31/43013/%D8%B9%DA%A9%D8%B3.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 33:**
+Project Name: تأمین سرمایه در گردش جهت واردات و فروش کانتر تزریقی کوتاه مدت
+Company Title: متقاضی:ونوس تجارت آکام
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/23//_784e0772-a48e-45e9-8e79-cfbfc6f72014%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 34:**
+Project Name: تأمین سرمایه در گردش به منظور واردات و فروش سرور
+Company Title: متقاضی:مهندسی مفتاح رایانه افزار
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/13/6059/_e74b9563-960d-4db4-94de-f1575bb8f6961.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 35:**
+Project Name: تأمین سرمایه در گردش جهت واردات و فروش آنژیوکت آبی
+Company Title: متقاضی:ونوس تجارت آکام
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/8/35973/_94cb7547-3716-4389-8096-b53a0e272544.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 36:**
+Project Name: تأمین سرمایه در جهت تولید و فروش توپ بازی
+Company Title: متقاضی:صنعتی بازرگانی ره شتاب مدرن
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/6/44908/_d5c230a7-e092-454d-a4bc-e8a2001bab28.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 37:**
+Project Name: تامین سرمایه ‌در گردش جهت تکمیل پروژه عمارت پردیس
+Company Title: متقاضی:پردیس سازان نوید
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/7/1/44613/SAVE_%DB%B2%DB%B0%DB%B2%DB%B4%DB%B0%DB%B7%DB%B0%DB%B1_%DB%B1%DB%B9%DB%B0%DB%B3%DB%B2%DB%B8.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 38:**
+Project Name: تأمین سرمایه در گردش جهت خرید و فروش مواد غذایی
+Company Title: متقاضی:شرکت یزدان مطهر قائم وسطی
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/6/26/44492/_eb9ce1c3-05bb-4669-8e31-2c507787cb1d.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 39:**
+Project Name: تأمین سرمایه در گردش جهت تولید و فروش رزین آلکید 70% پایه روغن
+Company Title: متقاضی:کیمیا کاوش امید
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/6/23/44313/_6f850517-55bf-4a13-a133-74df2cdb03b7%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 40:**
+Project Name: تامین سرمایه در گردش جهت تکمیل مجتمع تجاری منار جنبان
+Company Title: متقاضی:شرکت سرمایه گذاری عقیق نقش جهان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/6/12/43895/_002ba09c-516c-44bf-982e-34f92c348a4b.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 41:**
+Project Name: تأمین سرمایه در گردش جهت تولید و فروش الکتروموتور پمپ
+Company Title: متقاضی:آناهیتا پمپ کاشان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/6/1/36811/_51f87f89-fddf-4eb6-94ea-c32a58cc49b5.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 42:**
+Project Name: شرکت خدمات مخابراتی ارگ جدید
+Company Title: متقاضی:خدمات مخابراتی ارگ جدید
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/5/27//_3007554a-ead2-460f-ba73-c7f4f5fbd76a11.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 43:**
+Project Name: تأمین سرمایه در گردش به منظور خرید ماده اولیه برای تولید انواع سس
+Company Title: متقاضی:صنایع غذایی بهروز نیک
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/5/12//_0b3c2dee-0140-45be-be1a-338ae4238c18.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 44:**
+Project Name: تأمین سرمایه در گردش به منظور خرید مواد اولیه تولید 4 نوع محصول آرایشی و بهداشتی
+Company Title: متقاضی:کیاکام فارمد
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/5/14//InShot_20240514_171853838.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 45:**
+Project Name: تأمین سرمایه در گردش به‌منظور بازرگانی قطعات یدکی خودرو
+Company Title: متقاضی:شریف خودرو آرمان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/5/1/36216/_ceff0b4b-21b4-4b22-b76e-96cd357cef4b%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 46:**
+Project Name: تامین سرمایه ‌در گردش جهت تامین سرمایه ‌در گردش جهت ساخت کمپ رفاهی و جاده دسترسی به چاههای نفتی
+Company Title: متقاضی:شرکت فنی مهندسی یکتا نیروی خاور
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/4/24/2138/_6d01656a-095f-4d5a-97c4-89989f3f576b.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 47:**
+Project Name: تامین سرمایه در گردش به منظور خرید ماده اولیه تولید داروی آلتلایزر
+Company Title: متقاضی:آرنا حیات دانش
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/4/17/38982/_b7391b86-5722-4228-9b44-aa183c15b1b5%20%281%29.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 48:**
+Project Name: تأمین سرمایه در گردش به منظور خرید ماده اولیه برای تولید قطعات کمپرسورهای رفت و برگشتی در حوزه صنایع پیشرفته
+Company Title: متقاضی:شرکت آراز صنعت آسیا
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/27//_c72b45bc-a8d8-47ad-9225-679483530001.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 49:**
+Project Name: تأمین سرمایه در گردش جهت تولید پمپ شناور استنلس استیل
+Company Title: متقاضی:آناهیتا پمپ کاشان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/17/36811/_d777b5af-0f90-4147-8683-21c4835dc7bf.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 50:**
+Project Name: تأمین سرمایه در گردش به منظور خرید ماده اولیه تولید داروهای اورژانسی سکته قلبی و مغزی
+Company Title: متقاضی:آرنا حیات دانش
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/14/38982/_049773ed-1b05-4c90-8909-3b67a3664138.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 51:**
+Project Name: تأمین سرمایه در گردش جهت خرید و واردات دستگاه NMR 400 MHZ
+Company Title: متقاضی:آریا فن ورزان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/10//_445ea696-d879-4b19-afe1-ba0ba8fb3e41.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 52:**
+Project Name: تأمین سرمایه در گردش به منظور خرید ماده اولیه تولید ورق و جعبه کارتنی
+Company Title: متقاضی:مهندسین خبره میهن
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/9//_4ebdd472-5164-40af-aa29-47e0b1a31dc2.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 53:**
+Project Name: تأمین سرمایه در گردش به منظور تولید و فروش چسب‌های بین لایه‌ایی پلی الفینی
+Company Title: متقاضی:آریا پلیمر پیشگام
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/4//_630f7911-145c-4faa-8455-6cad8279b308.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 54:**
+Project Name: تأمین سرمایه در گردش به منظور خرید ماده اولیه تولید داروی آلبومین و ایمونوگلوبین
+Company Title: متقاضی:شرکت مدوک زیست دارو
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/3/2//_289b257c-ebba-4074-9415-7ab693bd9b0c.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 55:**
+Project Name: تأمین سرمایه در گردش جهت فروش قسطی خط کامل شستشو و بازیافت مواد پلاستیکی نایلونی
+Company Title: متقاضی:توسعه مبادلات فناورانه ایرانیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/2/26//_32cb3a61-94be-46c5-b9fe-7c921908d4e6.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 56:**
+Project Name: تأمین بخشی از سرمایه در گردش خرید مواد اولیه جهت تولید نخ پلی استر
+Company Title: متقاضی:ریسندگی و بافندگی زرباف یزد
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/2/26//_4e3ab6ab-335a-46fe-a38a-77492ddce1d0.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 57:**
+Project Name: تامین بخشی از سرمایه مورد نیاز جهت اجرای قرارداد اسکلت بتنی مجتمع مسکونی فردوسی- مرحله دوم
+Company Title: متقاضی:شرق سازه کویر
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/2/19//_11846e01-7b5e-4f1c-9299-9dd4f45e80a0.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 58:**
+Project Name: تأمین سرمایه در گردش جهت فروش قسطی ماشین‌آلات صنعتی
+Company Title: متقاضی:توسعه مبادلات فناورانه ایرانیان
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/2/13//_c2a890a2-a401-4039-b097-2d71ad96c305.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 59:**
+Project Name: تأمین سرمایه در گردش جهت برگزاری دوره‌های آموزشی آنلاین در حوزه اینترنت اشیاء
+Company Title: متقاضی:دانش مان اینترنت اشیاء
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/1/8//_e686678a-8a47-41a1-86dc-c83e7a7c5aa7.jpg
+Has Opportunity: False
+Has Warranty: True
+
+**Project 60:**
+Project Name: تأمین سرمایه در گردش به منظور ارائه خدمات آزمایشگاهی- مرحله 1
+Company Title: متقاضی:طب تشخیص فرجاد (سهامی خاص)
+Estimated Profit: -1
+Media Source: https://halalfund.ir/ProjectFiles/2024/1/8//_0d5ac293-41d0-4a5d-9cfa-cd7e383a605b.jpg
+Has Opportunity: False
+Has Warranty: True
