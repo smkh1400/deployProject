@@ -4,9 +4,9 @@ services:
     env: python
     rootDir: backend/crowdfind
     buildCommand: |
-      pip install -r ../../requirements.txt
-      cd ../../../frontend/crowdfind && npm install && npm run build
-      xcopy /E /I /Y ../../../frontend/crowdfind/build ../../../backend/crowdfind/build
+      pip install -r backend/requirements.txt
+      cd frontend/crowdfind && npm install && npm run build
+      cp -r build ../../backend/crowdfind/build
     startCommand: gunicorn crowdfind.wsgi:application
     envVars:
       - key: DJANGO_SETTINGS_MODULE
