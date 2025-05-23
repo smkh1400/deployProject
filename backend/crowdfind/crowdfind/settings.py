@@ -25,7 +25,12 @@ SECRET_KEY = 'django-insecure-g_b7vn^*a5e7y%4ynh@*gixz3^hy0-bckgu%3%kku$f%-gmd_5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "127.0.0.1",
+    "localhost",
+    "deployproject-daac.onrender.com",
+]
+
 
 
 # Application definition
@@ -56,6 +61,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000", #frontend
     "http://localhost:3000",
+    "deployproject-daac.onrender.com",
 ]
 
 # CORS_ALLOW_ALL_ORIGINS = True
