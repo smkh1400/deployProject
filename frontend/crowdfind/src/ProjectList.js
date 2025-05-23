@@ -5,7 +5,7 @@ function ProjectList() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('https://my-backend.onrender.com/api/projects')
+        fetch('https://deployproject-daac.onrender.com/api/projects')
         .then(response => response.json())
         .then(data => {
             setProjects(data);
